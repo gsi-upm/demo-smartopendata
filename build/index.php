@@ -815,6 +815,17 @@ if ($user->isLoggedIn()){
 				<!-- columns in tab 3 -->
 				<div id="columns" data-bind="visible: activeTab() == 3">
 
+                    <div id="column0tab3" class="column">
+                        <!-- Add new widget section (left column) -->
+                        <div class="addNewWidget" data-bind="visible: $root.adminMode">
+                            <h1 data-bind="click: $root.openNewWidgetManagerMethod, text: lang().addWidget"></h1>
+                        </div>
+                    </div>
+
+                    <div id="column1tab3" class="column">
+
+                    </div>
+
 				</div>
 
 				<!-- ends maincontent -->

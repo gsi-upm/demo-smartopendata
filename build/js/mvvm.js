@@ -1300,7 +1300,6 @@ function InitViewModel() {
 					widgetX[i].paint(item.id());
 				}
 			}
-
 		});
 
 	};
