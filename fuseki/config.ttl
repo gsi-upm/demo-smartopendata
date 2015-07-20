@@ -1,0 +1,294 @@
+# Licensed under the terms of http://www.apache.org/licenses/LICENSE-2.0
+
+## Basic Fuseki configuation file.
+## 
+## See also config-tdb.ttl for TDB specific examples.
+## See also config-examples.ttl for commented examples.
+
+@prefix :        <#> .
+@prefix fuseki:  <http://jena.apache.org/fuseki#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdb:     <http://jena.hpl.hp.com/2008/tdb#> .
+@prefix ja:      <http://jena.hpl.hp.com/2005/11/Assembler#> .
+
+[] rdf:type fuseki:Server ;
+   # Timeout - server-wide default: milliseconds.
+   # Format 1: "1000" -- 1 second timeout
+   # Format 2: "10000,60000" -- 10s timeout to first result, then 60s timeout for the rest of query.
+   # See java doc for ARQ.queryTimeout
+   # ja:context [ ja:cxtName "arq:queryTimeout" ;  ja:cxtValue "10000" ] ;
+
+   # ja:loadClass "your.code.Class" ;
+
+   fuseki:services (
+     <#service1>
+     <#service4>
+	 <#service5>
+     <#service6>
+     <#service7>
+	 <#service11>
+	 <#service12>
+	 <#service13>
+	 <#service14>
+     <#onyx>
+   ) .
+
+## ---------------------------------------------------------------
+## Updatable in-memory dataset.
+
+<#service1> rdf:type fuseki:Service ;
+    # URI of the dataset -- http://host:port/ds
+    fuseki:name                        "geo" ; 
+    fuseki:serviceQuery                "sparql" ;
+    fuseki:serviceQuery                "query" ;
+    fuseki:serviceUpdate               "update" ;
+    fuseki:serviceUpload               "upload" ;
+    fuseki:serviceReadWriteGraphStore  "data" ;     
+    fuseki:serviceReadGraphStore       "get" ;
+    fuseki:dataset                     <#emptyDataset> ;
+    .
+
+	
+	<#service3> rdf:type fuseki:Service ;
+    # URI of the dataset -- http://host:port/ds
+    fuseki:name                        "geo1" ; 
+    fuseki:serviceQuery                "sparql" ;
+    fuseki:serviceQuery                "query" ;
+    fuseki:serviceUpdate               "update" ;
+    fuseki:serviceUpload               "upload" ;
+    fuseki:serviceReadWriteGraphStore  "data" ;     
+    fuseki:serviceReadGraphStore       "get" ;
+    fuseki:dataset                     <#emptyDataset> ;
+    .
+
+	<#service4> rdf:type fuseki:Service ;
+    fuseki:name                     "restaurants" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#restaurants> ;
+    .
+
+	<#service5> rdf:type fuseki:Service ;
+    fuseki:name                     "slovakia" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#slovakia> ;
+    .	
+	
+	<#service6> rdf:type fuseki:Service ;
+    fuseki:name                     "districts" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#districts> ;
+    .	
+
+    <#service7> rdf:type fuseki:Service ;
+    fuseki:name                     "gisai" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#gisai> ;
+    .
+
+
+   <#service8> rdf:type fuseki:Service ;
+    fuseki:name                     "speciesnatura2000" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#species> ;
+    .
+
+    <#service9> rdf:type fuseki:Service ;
+    fuseki:name                     "habitatnatura2000" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#habitat> ;
+    .
+
+   <#service10> rdf:type fuseki:Service ;
+    fuseki:name                     "sitesnatura2000" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#sitesnatura> ;
+    .
+    
+	<#service11> rdf:type fuseki:Service ;
+    fuseki:name                     "customizedspecies" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#customizedspecies> ;
+    .
+	
+	<#service12> rdf:type fuseki:Service ;
+    fuseki:name                     "customizedhabitat" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#customizedhabitat> ;
+	.
+	
+	<#service13> rdf:type fuseki:Service ;
+    fuseki:name                     "customizedsites" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#customizedsites> ;
+	.
+	
+	<#service14> rdf:type fuseki:Service ;
+    fuseki:name                     "slovakiarefined" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#slovakiarefined> ;
+	.
+	
+	<#slovakiarefined>    rdf:type ja:RDFDataset ;
+    rdfs:label "RDF refined for new sefarad" ;
+    ja:defaultGraph
+      [ rdfs:label "RDF refined for new sefarad" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://opensmart.gsi.dit.upm.es/srefined> ;
+        ja:content [ja:externalContent <file:Data/slovakiarefined.rdf> ] ;
+      ] ;
+    .
+	
+	<#customizedsites>    rdf:type ja:RDFDataset ;
+    rdfs:label "Species" ;
+    ja:defaultGraph
+      [ rdfs:label "Customized Sites for Natura 2000" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://opensmart.gsi.dit.upm.es/customized> ;
+        ja:content [ja:externalContent <file:Data/customizedsites.rdf> ] ;
+      ] ;
+    .
+	
+	<#customizedhabitat>    rdf:type ja:RDFDataset ;
+    rdfs:label "Species" ;
+    ja:defaultGraph
+      [ rdfs:label "Customized Habitat for Natura 2000" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://opensmart.gsi.dit.upm.es/customized> ;
+        ja:content [ja:externalContent <file:Data/customizedhabitat.rdf> ] ;
+      ] ;
+    .
+	
+	<#customizedspecies>    rdf:type ja:RDFDataset ;
+    rdfs:label "Species" ;
+    ja:defaultGraph
+      [ rdfs:label "Customized Species for Natura 2000" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://opensmart.gsi.dit.upm.es/customized> ;
+        ja:content [ja:externalContent <file:Data/customizedspecies.rdf> ] ;
+      ] ;
+    .
+	
+<#species>    rdf:type ja:RDFDataset ;
+    rdfs:label "Species" ;
+    ja:defaultGraph
+      [ rdfs:label "Species for Natura 2000" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://opensmart.gsi.dit.upm.es/species> ;
+        ja:content [ja:externalContent <file:Data/Natura2000_species.rdf> ] ;
+      ] ;
+    .
+
+<#habitat>    rdf:type ja:RDFDataset ;
+    rdfs:label "Habitat" ;
+    ja:defaultGraph
+      [ rdfs:label "Habitat for Natura 2000" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://opensmart.gsi.dit.upm.es/habitat> ;
+        ja:content [ja:externalContent <file:Data/Natura2000_habitats.rdf> ] ;
+      ] ;
+    .
+
+<#sitesnatura>    rdf:type ja:RDFDataset ;
+    rdfs:label "Sites" ;
+    ja:defaultGraph
+      [ rdfs:label "Sites for Natura 2000" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://opensmart.gsi.dit.upm.es/sitesnatura2000> ;
+        ja:content [ja:externalContent <file:Data/Natura2000_sites.rdf> ] ;
+      ] ;
+    .
+
+<#restaurants>    rdf:type ja:RDFDataset ;
+    rdfs:label "Restaurants" ;
+    ja:defaultGraph 
+      [ rdfs:label "Restaurantes Demo" ;
+        a ja:MemoryModel ;
+		ja:graphName  <http://opensmart.gsi.dit.upm.es/restaurants> ;
+        ja:content [ja:externalContent <file:Data/restaurantes3.rdf> ] ;
+      ] ;
+    .
+	
+<#slovakia>    rdf:type ja:RDFDataset ;
+    rdfs:label "Slovakia" ;
+    ja:defaultGraph 
+      [ rdfs:label "Open Smart Data Demo" ;
+        a ja:MemoryModel ;
+		ja:graphName  <http://opensmart.gsi.dit.upm.es/osdata> ;
+        ja:content [ja:externalContent <file:Data/slovakia.rdf> ; ja:cxtName "arq:queryTimeout" ;  ja:cxtValue "60000" ] ;
+      ] ;
+    .	
+	
+<#districts>    rdf:type ja:RDFDataset ;
+    rdfs:label "Districts" ;
+    ja:defaultGraph 
+      [ rdfs:label "Districtos Demo" ;
+        a ja:MemoryModel ;
+		ja:graphName  <http://opensmart.gsi.dit.upm.es/districts> ;
+        ja:content [ja:externalContent <file:Data/distritos.rdf> ] ;
+      ] ;
+    .		
+
+<#gisai>    rdf:type ja:RDFDataset ;
+    rdfs:label "Slovakia GISAI" ;
+    ja:defaultGraph
+      [ rdfs:label "Slovakia GISAI" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://opensmart.gisai.dit.upm.es/slovakia> ;
+        ja:content [ja:externalContent <file:Data/eslovaquiamin.rdf> ] ;
+      ] ;
+    .
+
+ <#onyx> rdf:type fuseki:Service ;
+    fuseki:name                     "onyx" ;
+    fuseki:serviceQuery                "sparql" ;
+    fuseki:serviceQuery                "query" ;
+    fuseki:serviceUpdate               "update" ;
+    fuseki:serviceUpload               "upload" ;
+    fuseki:serviceReadWriteGraphStore  "data" ;     
+    fuseki:serviceReadGraphStore       "get" ;
+    fuseki:dataset                     <#onyxDataset> ;
+    .
+  
+	
+## In-memory, initially empty.
+<#emptyDataset> rdf:type ja:RDFDataset .
+
+## In-memory, initially empty.
+<#onyxDataset> rdf:type ja:RDFDataset ;
+    rdfs:label "Onyx Demo" ;
+    ja:defaultGraph
+      [ rdfs:label "Onyx Demo" ;
+        a ja:MemoryModel ;
+                ja:graphName  <http://www.gsi.dit.upm.es/ontologies/onyx/ns#> ;
+        ja:content [ja:externalContent <file:Data/onyx.ttl> ] ;
+      ] ;
+    .
+
+
+## ---------------------------------------------------------------
+## Read-only access to a small books database.
+
+<#service2> rdf:type fuseki:Service ;
+    fuseki:name                     "books" ;
+    fuseki:serviceQuery                "sparql" ;
+    fuseki:serviceQuery                "query" ;
+    fuseki:serviceUpdate               "update" ;
+    fuseki:serviceUpload               "upload" ;
+    fuseki:serviceReadWriteGraphStore  "data" ;     
+    fuseki:serviceReadGraphStore       "get" ;
+    fuseki:dataset                     <#emptyDataset> ;
+    .
+  

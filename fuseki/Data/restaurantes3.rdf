@@ -1,0 +1,1396 @@
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/arganzuela-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Arganzuela, 328005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.408805899999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.710089</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-luca-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de General Maroto, 228045 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.394020134319</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6980910614595999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas/Small Plates, Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-vagón-madrid-3'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del Ferrocarrill, 3328045 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.400787700000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6975144000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No  </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Bars, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/freiduría-de-gallinejas-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Embajadores, 8428012 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.403506499999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7016026000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ciudad-de-vivero-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Juan de Mariana, 428045 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.399072437295999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6868326716954001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-gelateria-di-angelo-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Paseo de las Yeserías, 4128005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.397889200000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.707284</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Ice Cream &amp; Frozen Yogurt, Gluten-Free, Cafeteria </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-perdizione-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Paseo del Molino, 728045 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.390669600000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6938602</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Pizza, Italian </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/portivene-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de las Peñuelas, 428005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.404119999999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7048044</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Pizza </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-azulón-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Arganda, 4128005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.397154</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7040460999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/matadero-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Paseo de la Chopera,1428045 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.392429499999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6972018000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Performing Arts, Social Clubs </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Arganzuela </district>
+  </rdf:Description>
+  
+  
+  
+  
+  
+  
+   <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/palacio-de-vistalegre-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Utebo, 128025 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.386943600000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.73895</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Stadiums &amp; Arenas, Music Venues </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/anjor-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza de Setúbal, 428025 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.383577699999996</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7237692999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-casa-de-los-minutejos-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Antonio Leyva, 1928019 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.3941284</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7155401000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars, Dive Bars, Tapas/Small Plates </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-academia-de-los-vinos-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Matilde Hernández, 9628025 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.386362200000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7376450999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/asador-avelino-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Joaquín Turina,4228044 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.372139418700797</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7551793169271099</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Steakhouses </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/san-isidro-de-carabanchel-bajo-sociedad-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza Roger de Flor, 828019 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.394419499999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7325773999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Restaurants </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/gonmar-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Paseo de Muñoz Grandes, 47,28025 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.387309399999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7440741000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Good for Groups Yes Attire Casual </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Good for Groups Yes Attire Casual </takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-botas-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Inexpensive </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de la Fe, 928012 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.409022399999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7001586999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Pubs </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/pulpería-caracolería-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Avenida de Nuestra Señora de Fátima, 5528047 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.383559099999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7470783000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Seafood </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/café-del-sur-madrid-3'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Antonio López, 628019 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.396893599999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7141918</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Argentine, Greek, Pizza </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Carabanchel </district>
+  </rdf:Description>
+  
+  
+  
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/andén-0-estación-de-chamberí-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza de Chamberí, s/n28010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.432536200000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6970021000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Museums, Local Flavor </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-maquina-de-chamberi-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Ponzano, 4228003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.440098114689498</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6991749552013999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-ardosa-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Santa Engracia, 7028010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.436151199999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6990775999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars, Wineries </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/villa-de-foz-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Gonzalo de Córdoba, 1028010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.431969899999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.702048</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Galician </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/sylkar-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Espronceda, 1728003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.440690199999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6973571999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Dive Bars, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-parroquia-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Bretón de los Herreros, 1628003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.439520600000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6989147</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/sensatoree-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Bravo Murillo, 528015 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.434453400000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7045221000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Burgers, Gastropubs </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/atelier-belge-restaurante-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Bretón de los Herreros, 3928003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4395679</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6970725999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Modern European </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/oh-mandril-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del General ÿlvarez de Castro, 2128010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.436990000000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7029233000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars, Beer Bar </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-nova-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Zurbano, 8328003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.439568299999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6928757999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Steakhouses </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  
+  
+  
+  
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/andén-0-estación-de-chamberí-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza de Chamberí, s/n28010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.432536200000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6970021000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Museums, Local Flavor </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-maquina-de-chamberi-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Ponzano, 4228003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.440098114689498</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6991749552013999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-ardosa-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Santa Engracia, 7028010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.436151199999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6990775999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars, Wineries </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/villa-de-foz-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Gonzalo de Córdoba, 1028010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.431969899999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.702048</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Galician </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/sylkar-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Espronceda, 1728003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.440690199999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6973571999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Dive Bars, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-parroquia-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Bretón de los Herreros, 1628003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.439520600000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6989147</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/sensatoree-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Bravo Murillo, 528015 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.434453400000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7045221000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Burgers, Gastropubs </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/atelier-belge-restaurante-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Bretón de los Herreros, 3928003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4395679</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6970725999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Modern European </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/oh-mandril-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del General ÿlvarez de Castro, 2128010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.436990000000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7029233000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars, Beer Bar </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-nova-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Zurbano, 8328003 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.439568299999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6928757999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Steakhouses </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  
+  
+  
+  
+   <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-duero-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Nuestra Señora de Valverde, 4428034 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.494657599999996</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6875437999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Fuencarral </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-mesón-de-fuencarral-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Autovía de Colmenar, km14.528049 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.529784170583802</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6934232711792001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Fuencarral </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/harveys-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Fuencarral, 7028004 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.424766499999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7006388000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> American (Traditional), Cocktail Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Fuencarral</district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/las-mañanitas-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Fuencarral, 8228004 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.426705900000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7012912</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Mexican </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Fuencarral </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/de10-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Gonzalo de Córdoba, 528010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4323294</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7031203000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Burgers, Hot Dogs, Salad </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Fuencarral </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/madrid-xanadú-arroyomolinos'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Moderate </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Puerto de Navacerrada28939 ArroyomolinosSpain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.301095400000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.9272732000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Shopping Centers, Department Stores </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Fuencarral</district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/mercado-de-san-ildefonso-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Moderate </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Fuencarral, 57Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.424178907972603</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.70072613834532</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Farmers Market, Street Vendors </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Fuencarral</district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/rocablanca-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Fuencarral, 7128004 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.424597215856998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7007999322598999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Fuencarral </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/lateral-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Fuencarral, 4328004 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.422909300000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7008103999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas/Small Plates, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Fuencarral </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/jota-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Sandoval, 628010 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.430039600000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7035477000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Fuencarral </district>
+  </rdf:Description>
+  
+  
+  
+  
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/xentes-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del Humilladero, 1328005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4099717</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7103001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Tapas/Small Plates, Galician </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-candelita-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del Barquillo, 3028004 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4227317</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6955776999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Latin American, Cocktail Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/playa-de-riazor-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Toledo, 1928005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.408864899999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7009025000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Galician, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-lucas-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de la Cava Baja, 3028005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.412328199999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7093883999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Tapas Bars, Wine Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-perejila-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de la Cava Baja, 2528005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.412328600000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7092334</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-musa-latina-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Costanilla de San Andrés, 1228005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.412911100000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7119613</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Pubs, Tapas Bars, Modern European </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/taberna-rayuela-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de la Morería, 828005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.413114</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7132494999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Tapas/Small Plates, Tabernas </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/naïa-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza de la Paja, 328005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.412854899999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7114579999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Mediterranean, Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-gerardo-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Calatrava, 2128005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.409236999999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7118717999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Food </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/juana-la-loca-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza de Puerta de Moros, 428005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.411353699999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7110884</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  
+  
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/gandarío-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Gaztambide, 2828015 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.434553999999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7154544</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/bravas-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Meléndez Valdés, 6228015 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.433149</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7162009</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Burgers, Tapas Bars, Tapas/Small Plates </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/don-oso-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Donoso Cortés, 9028015 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.436611300000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7163507</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Burgers, Hot Dogs </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/faro-de-moncloa-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Avenida de los Reyes Católicos, 028040 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.439148199999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7178597</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Landmarks &amp; Historical Buildings </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí</district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/platos-rotos-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Ferraz, 3928008 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.428673699999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7198866000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Modern European, Burgers </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/hoces-del-durat%C3%B3n-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle San Bernardo, 12628015 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.432409397288701</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7045781730163299</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars, Spanish, Tapas/Small Plates </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/copérnico-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Fernández de los Ríos, 6728015 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.435275099999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7137381999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Dance Clubs, Music Venues, Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-paco-madrid-3'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Altamirano, 3828008 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4303423</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7203374</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars, Tapas/Small Plates, Pubs </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/manolo-madrid-3'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Princesa, 8328008 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.432623999999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7178990999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Tapas/Small Plates, Breakfast &amp; Brunch </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Chamberí</district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/terraza-hotel-exe-moncloa-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del Arcipreste de Hita, 1028015 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.433731700000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7175435000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Pubs, Lounges, Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Chamberí </district>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/shukran-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Alcalá, 6228009 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4217595</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6821164999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Halal, Middle Eastern </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/bentleys-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Alcalá, 10528009 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.421581891695901</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6833089962601702</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> American (Traditional) </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/kimura-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Alberto Bosch, 1428014 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.413336899999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6894787</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Japanese, Sushi Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/arúgula-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Velázquez, 928001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.422015000000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6845903999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Salad, Food Delivery Services, Mediterranean </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/harina-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza de la Independencia, 1028014 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.419550399999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6894737000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Bakeries, Breakfast &amp; Brunch </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/fonty-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Castelló, 1228001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.423074073570596</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6816701443611199</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Cafeteria, French </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/carlos-tartiere-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Menorca, 3528009 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.419463</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.675071</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Asturian </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/pinocchio-zona-retiro-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza Doctor Laguna, 728009 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4157005</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6717401000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Italian </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-gruta-del-parque-del-buen-retiro-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Parque del Retiro28009 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.415423500000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6842358000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas/Small Plates, Coffee &amp; Tea, Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casona-retiro-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Juan de Mena, 1228014 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.417253799999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6898140000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Retiro </district>
+  </rdf:Description>
+  
+  
+   <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/nimú-bistró-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Goya, 3128001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.425362200000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6844809000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Gastropubs, Modern European </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Salamanca </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-julián-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Don Ramón de la Cruz, 1028001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.429118500000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6858382999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Salamanca </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-dani-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Ayala, 2828001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.427730942936002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6858000978827499</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Restaurants </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Salamanca </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/salamanca-madrid-3'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de la Cava Baja, 3128005 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.412500000000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7089400000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Pubs, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> La Latina </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/pimiento-verde-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Lagasca, 4628001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4257481</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6852368000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Basque </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Salamanca </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-celestina-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Lagasca, 6728001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.428626299999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6851172999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Salamanca </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/jumar-coslada'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> avda. fuentemarCoslada, Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.432731599999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.5484483</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Restaurants </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/jurucha-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Ayala, 1928001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.427886000000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6856969999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Salamanca </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/estay-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Hermosilla, 4628001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.426194799999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6821872999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Salamanca </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-paraguas-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Jorge Juan, 1628001 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.426833600000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6951019999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Asturian </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Justicia </district>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/don-lisander-trattoria-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de la Infanta Mercedes, 1328020 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.453492099999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6993801999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Italian, Pizza </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ondiñas-do-mendo-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Villaamil, 428039 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.4567908</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7050917000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars, Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/maru-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Reina, 3728004 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.419752600000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6977853999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Sushi Bars, Korean, Japanese </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-brillante-madrid-5'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Bravo Murillo 16128020 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.452234400000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7033806999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/andoriña-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Lérida, 9228020 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.459003992587199</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6990679800510402</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Galician </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-alhambra-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del Tribulete, 428012 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.408217800000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7016722999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Moroccan </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-maquina-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €51-100 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Sor ÿngela de la Cruz, 2228020 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.459678099999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6951075000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/piccola-napoli-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Palencia, 3028020 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.449687384223999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7005466074197</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Pizza, Food Delivery Services, Italian </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ninsei-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de la Reina Mercedes, 2228020 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.450839500000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.697152</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Korean, Japanese, Thai </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ibero-china-internacional-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Moderate </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del General Margallo, 428020 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.460999399999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.697565</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Specialty Food </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tetuán </district>
+  </rdf:Description>
+  
+  
+  
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-parrilla-de-usera-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Pilarica 20-45-2928026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.385819699999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7033729000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Restaurants </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/royal-cantonés-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del Olvido, 9228026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.382983600000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.702483</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Dim Sum </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/oq-bubble-tea-bar-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Ortiz Campos, 228026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.385331600000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7065171000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Steakhouses, Juice Bars &amp; Smoothies </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/usera-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Avenida Rafaela Ybarra, 1228041 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.382244738905698</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.71131427586079</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Rotisserie Chicken </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-parrilla-iii-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de la Pilarica, 2028026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.385816200000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7033318</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Steakhouses </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-pincho-de-usera-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Jesus del Gran Poder, 42 - BC 5028026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.384808300000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7054372999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Restaurants </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/los-serranos-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Joaquín Márquez, 928026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.3850902</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7094860999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-pincho-de-usera-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle Jesus del Gran Poder, 4228026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.386404400000004</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7010097000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Restaurants </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/da-fa-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Antonio López, 16628026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.388778199999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7004253999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Delivery Yes</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Dim Sum </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-fogón-de-usera-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle De Ramon De Madariaga 1028026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.387836100000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7076131000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ciri-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Under €20 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del Amor Hermoso, 2128026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.386331499999997</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7039610999999999</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Restaurants </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/bocata-stop-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Marcelo Usera, 7328026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.385823299999998</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7055674000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Fast Food </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-central-del-buen-gusto-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Avenida De Cordoba, 728026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.387501499999999</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7006161</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish, Tabernas </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/apolo-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Marcelo Usera, 10428026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.385680100000002</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7082457</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Breakfast &amp; Brunch </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/manchego-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle del Amparo, 4628012 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.409016600000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7025412000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations N</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera</district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/van-gogh-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Marcelo Usera, 9128026 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.3856684</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.7069456000000001</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Breakfast &amp; Brunch </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Usera </district>
+  </rdf:Description>
+  
+  
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/arte-diet-madrid-2'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Calle de Villardondiego, 2228032 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.406928600000001</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.608374</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Gluten-Free, Bakeries </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">3.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Vicálvaro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/asador-de-vicalvaro-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Canteras de tilli28032 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.402397800000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6037032999999998</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">Takes Reservations No</reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Vicálvaro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/vicus-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"></price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Plaza de Don Antonio de Andrés28032 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.401909000000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6057450000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations Yes </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Tapas Bars </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4.5</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Vicálvaro </district>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/de-buena-cepa-madrid'>
+    <price xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> €21-50 </price>
+    <address xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Bulevar José Prat, 3228032 Madrid Spain </address>
+    <latitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">40.396766300000003</latitude>
+    <longitude xmlns="http://www.w3.org/2003/01/geo/wgs84_pos#">-3.6209209000000002</longitude>
+    <reservations xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Takes Reservations No </reservations>
+    <takeout xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">No</takeout>
+    <foodtype xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Wine Bars, Spanish </foodtype>
+    <stars xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/">4</stars>
+    <district xmlns="http://sefarad.gsi.dit.upm.es/rdf/gp/"> Vicálvaro </district>
+  </rdf:Description>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</rdf:RDF>

@@ -1,0 +1,1535 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://natura2000.eea.europa.eu/Natura2000/rdf/schema.rdf#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Alchemilla%20propinqua_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Brenthis%20ino_1">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aythya%20nyroca_2">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Triturus%20cristatus_4">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tragonolobus%20maritimus_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Fritillaria%20meleagris_1">
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tachybaptus%20ruficollis_1">
+    <SITECODE>SKCHVU006</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Caucalis%20platycarpos%20subsp.%20platycarpos_1">
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pedicularis%20sylvatica_1">
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Alchemilla%20virginea_4">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aquila%20chrysaetos_4">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Argynnis%20laodice_4">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Streptopelia%20turtur_1">
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Zingel%20streber_2">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Buphthalmum%20salicifolium_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Adenophora%20lilifolia_2">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Felis%20silvestris_2">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU004</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Notioscopus%20sarcinatus_4">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Caucalis%20platycarpos%20subsp.%20platycarpos_2">
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Carabus%20variolosus_2">
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Microtus%20tatricus_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Brenthis%20ino_2">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Streptopelia%20turtur_2">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Corothamnus%20procumbens_4">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Sorbus%20chamaemespilus_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pedicularis%20sylvatica_2">
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Zingel%20streber_4">
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Alyssum%20montanum%20subsp.%20brymii_4">
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Felis%20silvestris_1">
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU004</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Bubo%20bubo_2">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tragonolobus%20maritimus_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Microtus%20tatricus_2">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Alchemilla%20propinqua_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Ceratinopsis%20stativa_2">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Potosia%20cuprea%20metallica_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Alchemilla%20virginea_2">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aquila%20chrysaetos_2">
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Argynnis%20laodice_2">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Adenophora%20lilifolia_4">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rana%20kL.%20esculenta_4">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Felis%20silvestris_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU004</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gratiola%20officinalis_4">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gymnadenia%20odoratissima_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Caprimulgus%20europaeus_1">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Circaetus%20gallicus_4">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gymnocephalus%20schraetzer_1">
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Carex%20davalliana_1">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aythya%20nyroca_1">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tachybaptus%20ruficollis_2">
+    <SITECODE>SKCHVU006</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Circus%20aeruginosus_4">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU020</SITECODE>
+    <SITECODE>SKCHVU023</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU038</SITECODE>
+    <SITECODE>SKCHVU006</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Streptopelia%20turtur_4">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Fritillaria%20meleagris_2">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tringa%20totanus_1">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pedicularis%20sylvatica_4">
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Argynnis%20laodice_1">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Alyssum%20montanum%20subsp.%20brymii_2">
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Caprimulgus%20europaeus_2">
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gymnocephalus%20schraetzer_2">
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gymnadenia%20odoratissima_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Podospermum%20laciniatum_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Plecotus%20austriacus_4">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rana%20lessonae_2">
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tetrao%20urogallus_2">
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Salix%20retusa_1">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lanius%20excubitor_1">
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Ischyropsalis%20manicata_4">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Potosia%20cuprea%20metallica_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Helix%20pomatia_4">
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Silene%20borysthenica_1">
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Chimaphila%20umbellata_4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Circaetus%20gallicus_2">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Saxicola%20torquata_1">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU037</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Alyssum%20montanum%20subsp.%20brymii_1">
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Stipa%20eriocaulis_1">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Peucedanum%20palustre_2">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pipistrellus%20nathusii_4">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tetrao%20urogallus_1">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Salix%20retusa_2">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Potosia%20cuprea%20metallica_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Botrychium%20matricariifolium_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Coenagrion%20ornatum_4">
+    <SITECODE>SKCHVU014</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lanius%20excubitor_2">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Circus%20aeruginosus_2">
+    <SITECODE>SKCHVU023</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU020</SITECODE>
+    <SITECODE>SKCHVU038</SITECODE>
+    <SITECODE>SKCHVU006</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Barbus%20barbus_4">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Silene%20borysthenica_2">
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Viola%20lutea_4">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Caprimulgus%20europaeus_4">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Melampyrum%20cristatum_2">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Maculinea%20teleius_4">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Eriophorum%20vaginatum_4">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tachybaptus%20ruficollis_4">
+    <SITECODE>SKCHVU006</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Boros%20schneideri_4">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Peucedanum%20palustre_1">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rana%20lessonae_4">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tetrao%20urogallus_4">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Myotis%20blythii_1">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Viola%20lutea_1">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Peucedanum%20palustre_4">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Callimorpha%20quadripunctaria_1">
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Circus%20aeruginosus_1">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU023</SITECODE>
+    <SITECODE>SKCHVU006</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU020</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU038</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Astragalus%20alpinus_4">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pipistrellus%20nathusii_2">
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Malaxis%20monophyllos_4">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Viola%20lutea_2">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lycopodium%20clavatum_2">
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Juncus%20bulbosus_1">
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Arabis%20nova_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Melampyrum%20cristatum_4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Circaetus%20gallicus_1">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Bubo%20bubo_4">
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Salix%20retusa_4">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Remiz%20pendulinus_1">
+    <SITECODE>SKCHVU006</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Stipa%20eriocaulis_2">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pipistrellus%20nathusii_1">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Dactylorhiza%20fuchsii_1">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Chlidonias%20hybridus_1">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pyrola%20chlorantha_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pulsatilla%20pratensis%20subsp.%20bohemica_2">
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Monticola%20saxatilis_1">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orchis%20purpurea_1">
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gymnadenia%20densiflora_1">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Daphne%20cneorum_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aster%20amelloides_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lilium%20bulbiferum_4">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Phalacrocorax%20pygmeus_4">
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lycopodium%20clavatum_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Crepis%20conyzifolia_4">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Anemone%20narcisifolia_1">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Martes%20martes_2">
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Leontopodium%20alpinum_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Euphrasia%20stipitata_4">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rosa%20glauca_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Remiz%20pendulinus_2">
+    <SITECODE>SKCHVU006</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Astragalus%20alpinus_2">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Numenius%20phaeopus_4">
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orobanche%20elatior_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Vipera%20berus_4">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gobio%20(romanogobio)%20kessleri_4">
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Campanula%20bononiensis_1">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Limosella%20aquatica_2">
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pyrola%20chlorantha_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Monticola%20saxatilis_2">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pandion%20haliaetus_2">
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rhodeus%20sericeus%20amarus_4">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Myotis%20blythii_2">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Microtus%20oeconomus%20mehelyi_1">
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Falco%20peregrinus_2">
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Anemone%20narcisifolia_2">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Erysimum%20hungaricum_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orchis%20mascula_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Coturnix%20coturnix_1">
+    <SITECODE>SKCHVU009</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU037</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU012</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU023</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Coturnix%20coturnix_2">
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU009</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU012</SITECODE>
+    <SITECODE>SKCHVU023</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU037</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pulsatilla%20pratensis%20subsp.%20bohemica_4">
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Limosella%20aquatica_1">
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Maculinea%20teleius_1">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Daphne%20cneorum_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lilium%20bulbiferum_2">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Falco%20peregrinus_1">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Crepis%20conyzifolia_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Chimaphila%20umbellata_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Salamandra%20salamandra_1">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Martes%20martes_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Leontopodium%20alpinum_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Euphrasia%20tatrae_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Linaria%20pallidiflora_4">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Eriophorum%20vaginatum_1">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Melampyrum%20cristatum_1">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Acrocephalus%20schoenobaenus_1">
+    <SITECODE>SKCHVU006</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Moneses%20uniflora_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Vipera%20berus_2">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rana%20lessonae_1">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lanius%20excubitor_4">
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orchis%20purpurea_2">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Maculinea%20teleius_2">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pandion%20haliaetus_4">
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aster%20amelloides_2">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Papaver%20tatricum_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Anemone%20narcisifolia_4">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Crepis%20conyzifolia_1">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Monticola%20saxatilis_4">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Chimaphila%20umbellata_1">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Beckmannia%20eruciformis_2">
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Erysimum%20hungaricum_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Eriophorum%20vaginatum_2">
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Saxicola%20torquata_2">
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU037</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Moneses%20uniflora_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rosa%20glauca_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Boros%20schneideri_2">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Polyommatus%20admetus_4">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orchis%20mascula_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Microtus%20tatricus_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aquilegia%20vulgaris%20subsp.%20vulgaris_1">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Scrophularia%20umbrosa_2">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Plecotus%20austriacus_2">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Ceratinopsis%20stativa_4">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Clausilia/andraea%20dubia%20ingenua_4">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rana%20kL.%20esculenta_2">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Tringa%20totanus_2">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Euphydryas%20maturna_1">
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rhodeus%20sericeus%20amarus_1">
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rhodax%20rupifragus_2">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gratiola%20officinalis_2">
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Erysimum%20hungaricum_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Beckmannia%20eruciformis_1">
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Microtus%20oeconomus%20mehelyi_4">
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aythya%20ferina_1">
+    <SITECODE>SKCHVU006</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orobanche%20picridis_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Dryomys%20nitedula_1">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Plecotus%20austriacus_1">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aquilegia%20vulgaris%20subsp.%20vulgaris_2">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lilium%20bulbiferum_1">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lutra%20lutra_1">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aquila%20chrysaetos_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU052</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU051</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aster%20amelloides_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Myotis%20bechsteinii_4">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Salamandra%20salamandra_2">
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Buphthalmum%20salicifolium_1">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Vipera%20berus_1">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Euphydryas%20maturna_2">
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aquilegia%20vulgaris_4">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gymnocephalus%20schraetzer_4">
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Podospermum%20laciniatum_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Notioscopus%20sarcinatus_1">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orobanche%20elatior_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orobanche%20picridis_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Carex%20davalliana_2">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rosa%20glauca_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Aythya%20nyroca_4">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Sorbus%20atrimontis_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Microtus%20oeconomus%20mehelyi_2">
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lutra%20lutra_2">
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rhodax%20rupifragus_4">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Anas%20strepera_4">
+    <SITECODE>SKCHVU006</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU034</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Phalacrocorax%20pygmeus_2">
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Clausilia/andraea%20dubia%20ingenua_2">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Carabus%20variolosus_1">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Buphthalmum%20salicifolium_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orobanche%20picridis_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orchis%20mascula_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Anas%20clypeata_4">
+    <SITECODE>SKCHVU006</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Orobanche%20elatior_2">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Notioscopus%20sarcinatus_2">
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Scrophularia%20umbrosa_4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Pytho%20depressus_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Sorbus%20atrimontis_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Clematis%20alpina_1">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Falco%20peregrinus_4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU053</SITECODE>
+    <SITECODE>SKCHVU050</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Phalacrocorax%20pygmeus_1">
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Gratiola%20officinalis_1">
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Rhodeus%20sericeus%20amarus_2">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Carex%20viridula_4">
+    <SITECODE>SKCHVU006</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Myotis%20bechsteinii_2">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Clausilia/andraea%20dubia%20ingenua_1">
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Zingel%20streber_1">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Carex%20davalliana_4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Leontopodium%20alpinum_1">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Euphydryas%20maturna_4">
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Lamia%20textor_4">
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Dryomys%20nitedula_2">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/species/Chlidonias%20hybridus_2">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+  </rdf:Description>
+</rdf:RDF>

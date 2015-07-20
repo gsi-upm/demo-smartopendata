@@ -1,0 +1,1204 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix : <http://sefarad.gsi.dit.upm.es/rdf/gp/> .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/arganzuela-madrid> :price "€21-50" ;
+	:address "Calle de Arganzuela, 328005 Madrid Spain" .
+@prefix ns1: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/arganzuela-madrid> ns1:latitude "40.408805899999997" ;
+	ns1:longitude "-3.710089" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "4" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-luca-madrid> :price "€21-50" ;
+	:address "Calle de General Maroto, 228045 Madrid Spain" ;
+	ns1:latitude "40.394020134319" ;
+	ns1:longitude "-3.6980910614595999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Tapas/Small Plates, Spanish" ;
+	:stars "4.5" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-vagón-madrid-3> :price "€21-50" ;
+	:address "Calle del Ferrocarrill, 3328045 Madrid Spain" ;
+	ns1:latitude "40.400787700000002" ;
+	ns1:longitude "-3.6975144000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Bars, Tapas Bars" ;
+	:stars "5" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/freiduría-de-gallinejas-madrid-2> :price "€21-50" ;
+	:address "Calle Embajadores, 8428012 Madrid Spain" ;
+	ns1:latitude "40.403506499999999" ;
+	ns1:longitude "-3.7016026000000002" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "3" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ciudad-de-vivero-madrid-2> :price "" ;
+	:address "Calle Juan de Mariana, 428045 Madrid Spain" ;
+	ns1:latitude "40.399072437295999" ;
+	ns1:longitude "-3.6868326716954001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4.5" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-gelateria-di-angelo-madrid-2> :price "€21-50" ;
+	:address "Paseo de las Yeserías, 4128005 Madrid Spain" ;
+	ns1:latitude "40.397889200000002" ;
+	ns1:longitude "-3.707284" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Ice Cream & Frozen Yogurt, Gluten-Free, Cafeteria" ;
+	:stars "4" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-perdizione-madrid> :price "Under €20" ;
+	:address "Paseo del Molino, 728045 Madrid Spain" ;
+	ns1:latitude "40.390669600000003" ;
+	ns1:longitude "-3.6938602" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Pizza, Italian" ;
+	:stars "3.5" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/portivene-madrid> :price "" ;
+	:address "Calle de las Peñuelas, 428005 Madrid Spain" ;
+	ns1:latitude "40.404119999999999" ;
+	ns1:longitude "-3.7048044" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Pizza" ;
+	:stars "5" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-azulón-madrid-2> :price "" ;
+	:address "Calle de Arganda, 4128005 Madrid Spain" ;
+	ns1:latitude "40.397154" ;
+	ns1:longitude "-3.7040460999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "3" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/matadero-madrid> :price "" ;
+	:address "Paseo de la Chopera,1428045 Madrid Spain" ;
+	ns1:latitude "40.392429499999999" ;
+	ns1:longitude "-3.6972018000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Performing Arts, Social Clubs" ;
+	:stars "4" ;
+	:district "Arganzuela" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/palacio-de-vistalegre-madrid> :price "" ;
+	:address "Calle de Utebo, 128025 Madrid Spain" ;
+	ns1:latitude "40.386943600000002" ;
+	ns1:longitude "-3.73895" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Stadiums & Arenas, Music Venues" ;
+	:stars "4" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/anjor-madrid> :price "" ;
+	:address "Plaza de Setúbal, 428025 Madrid Spain" ;
+	ns1:latitude "40.383577699999996" ;
+	ns1:longitude "-3.7237692999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-casa-de-los-minutejos-madrid> :price "€21-50" ;
+	:address "Calle de Antonio Leyva, 1928019 Madrid Spain" ;
+	ns1:latitude "40.3941284" ;
+	ns1:longitude "-3.7155401000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars, Dive Bars, Tapas/Small Plates" ;
+	:stars "3.5" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-academia-de-los-vinos-madrid> :price "" ;
+	:address "Calle de Matilde Hernández, 9628025 Madrid Spain" ;
+	ns1:latitude "40.386362200000001" ;
+	ns1:longitude "-3.7376450999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/asador-avelino-madrid> :price "€21-50" ;
+	:address "Calle Joaquín Turina,4228044 Madrid Spain" ;
+	ns1:latitude "40.372139418700797" ;
+	ns1:longitude "-3.7551793169271099" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Steakhouses" ;
+	:stars "5" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/san-isidro-de-carabanchel-bajo-sociedad-madrid> :price "" ;
+	:address "Plaza Roger de Flor, 828019 Madrid Spain" ;
+	ns1:latitude "40.394419499999998" ;
+	ns1:longitude "-3.7325773999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Restaurants" ;
+	:stars "4.5" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/gonmar-madrid> :price "" ;
+	:address "Paseo de Muñoz Grandes, 47,28025 Madrid Spain" ;
+	ns1:latitude "40.387309399999999" ;
+	ns1:longitude "-3.7440741000000002" ;
+	:reservations "Good for Groups Yes Attire Casual" ;
+	:takeout "Good for Groups Yes Attire Casual" ;
+	:foodtype "Tapas Bars" ;
+	:stars "3.5" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-botas-madrid> :price "Inexpensive" ;
+	:address "Calle de la Fe, 928012 Madrid Spain" ;
+	ns1:latitude "40.409022399999998" ;
+	ns1:longitude "-3.7001586999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Pubs" ;
+	:stars "4" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/pulpería-caracolería-madrid-2> :price "" ;
+	:address "Avenida de Nuestra Señora de Fátima, 5528047 Madrid Spain" ;
+	ns1:latitude "40.383559099999999" ;
+	ns1:longitude "-3.7470783000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Seafood" ;
+	:stars "4.5" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/café-del-sur-madrid-3> :price "" ;
+	:address "Calle Antonio López, 628019 Madrid Spain" ;
+	ns1:latitude "40.396893599999999" ;
+	ns1:longitude "-3.7141918" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Argentine, Greek, Pizza" ;
+	:stars "4" ;
+	:district "Carabanchel" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/andén-0-estación-de-chamberí-madrid-2> :price "" ;
+	:address "Plaza de Chamberí, s/n28010 Madrid Spain" ;
+	ns1:latitude "40.432536200000001" ;
+	ns1:longitude "-3.6970021000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Museums, Local Flavor" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-maquina-de-chamberi-madrid> :price "€21-50" ;
+	:address "Calle de Ponzano, 4228003 Madrid Spain" ;
+	ns1:latitude "40.440098114689498" ;
+	ns1:longitude "-3.6991749552013999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-ardosa-madrid-2> :price "Under €20" ;
+	:address "Calle de Santa Engracia, 7028010 Madrid Spain" ;
+	ns1:latitude "40.436151199999998" ;
+	ns1:longitude "-3.6990775999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars, Wineries" ;
+	:stars "3.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/villa-de-foz-madrid> :price "€51-100" ;
+	:address "Calle de Gonzalo de Córdoba, 1028010 Madrid Spain" ;
+	ns1:latitude "40.431969899999999" ;
+	ns1:longitude "-3.702048" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Galician" ;
+	:stars "3" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/sylkar-madrid> :price "€21-50" ;
+	:address "Calle de Espronceda, 1728003 Madrid Spain" ;
+	ns1:latitude "40.440690199999999" ;
+	ns1:longitude "-3.6973571999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Dive Bars, Tapas Bars" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-parroquia-madrid> :price "Under €20" ;
+	:address "Calle de Bretón de los Herreros, 1628003 Madrid Spain" ;
+	ns1:latitude "40.439520600000002" ;
+	ns1:longitude "-3.6989147" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "3" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/sensatoree-madrid> :price "Under €20" ;
+	:address "Calle de Bravo Murillo, 528015 Madrid Spain" ;
+	ns1:latitude "40.434453400000002" ;
+	ns1:longitude "-3.7045221000000002" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Burgers, Gastropubs" ;
+	:stars "5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/atelier-belge-restaurante-madrid> :price "€51-100" ;
+	:address "Calle Bretón de los Herreros, 3928003 Madrid Spain" ;
+	ns1:latitude "40.4395679" ;
+	ns1:longitude "-3.6970725999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Modern European" ;
+	:stars "5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/oh-mandril-madrid> :price "Under €20" ;
+	:address "Calle del General ÿlvarez de Castro, 2128010 Madrid Spain" ;
+	ns1:latitude "40.436990000000002" ;
+	ns1:longitude "-3.7029233000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars, Beer Bar" ;
+	:stars "4" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-nova-madrid> :price "" ;
+	:address "Calle de Zurbano, 8328003 Madrid Spain" ;
+	ns1:latitude "40.439568299999998" ;
+	ns1:longitude "-3.6928757999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Steakhouses" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/andén-0-estación-de-chamberí-madrid-2> :price "" ;
+	:address "Plaza de Chamberí, s/n28010 Madrid Spain" ;
+	ns1:latitude "40.432536200000001" ;
+	ns1:longitude "-3.6970021000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Museums, Local Flavor" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-maquina-de-chamberi-madrid> :price "€21-50" ;
+	:address "Calle de Ponzano, 4228003 Madrid Spain" ;
+	ns1:latitude "40.440098114689498" ;
+	ns1:longitude "-3.6991749552013999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-ardosa-madrid-2> :price "Under €20" ;
+	:address "Calle de Santa Engracia, 7028010 Madrid Spain" ;
+	ns1:latitude "40.436151199999998" ;
+	ns1:longitude "-3.6990775999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars, Wineries" ;
+	:stars "3.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/villa-de-foz-madrid> :price "€51-100" ;
+	:address "Calle de Gonzalo de Córdoba, 1028010 Madrid Spain" ;
+	ns1:latitude "40.431969899999999" ;
+	ns1:longitude "-3.702048" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Galician" ;
+	:stars "3" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/sylkar-madrid> :price "€21-50" ;
+	:address "Calle de Espronceda, 1728003 Madrid Spain" ;
+	ns1:latitude "40.440690199999999" ;
+	ns1:longitude "-3.6973571999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Dive Bars, Tapas Bars" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-parroquia-madrid> :price "Under €20" ;
+	:address "Calle de Bretón de los Herreros, 1628003 Madrid Spain" ;
+	ns1:latitude "40.439520600000002" ;
+	ns1:longitude "-3.6989147" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "3" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/sensatoree-madrid> :price "Under €20" ;
+	:address "Calle de Bravo Murillo, 528015 Madrid Spain" ;
+	ns1:latitude "40.434453400000002" ;
+	ns1:longitude "-3.7045221000000002" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Burgers, Gastropubs" ;
+	:stars "5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/atelier-belge-restaurante-madrid> :price "€51-100" ;
+	:address "Calle Bretón de los Herreros, 3928003 Madrid Spain" ;
+	ns1:latitude "40.4395679" ;
+	ns1:longitude "-3.6970725999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Modern European" ;
+	:stars "5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/oh-mandril-madrid> :price "Under €20" ;
+	:address "Calle del General ÿlvarez de Castro, 2128010 Madrid Spain" ;
+	ns1:latitude "40.436990000000002" ;
+	ns1:longitude "-3.7029233000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars, Beer Bar" ;
+	:stars "4" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-nova-madrid> :price "" ;
+	:address "Calle de Zurbano, 8328003 Madrid Spain" ;
+	ns1:latitude "40.439568299999998" ;
+	ns1:longitude "-3.6928757999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Steakhouses" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-duero-madrid> :price "" ;
+	:address "Calle de Nuestra Señora de Valverde, 4428034 Madrid Spain" ;
+	ns1:latitude "40.494657599999996" ;
+	ns1:longitude "-3.6875437999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-mesón-de-fuencarral-madrid-2> :price "€51-100" ;
+	:address "Autovía de Colmenar, km14.528049 Madrid Spain" ;
+	ns1:latitude "40.529784170583802" ;
+	ns1:longitude "-3.6934232711792001" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4.5" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/harveys-madrid> :price "€21-50" ;
+	:address "Calle de Fuencarral, 7028004 Madrid Spain" ;
+	ns1:latitude "40.424766499999997" ;
+	ns1:longitude "-3.7006388000000001" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "American (Traditional), Cocktail Bars" ;
+	:stars "4" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/las-mañanitas-madrid-2> :price "€21-50" ;
+	:address "Calle de Fuencarral, 8228004 Madrid Spain" ;
+	ns1:latitude "40.426705900000002" ;
+	ns1:longitude "-3.7012912" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Mexican" ;
+	:stars "3.5" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/de10-madrid-2> :price "€21-50" ;
+	:address "Calle Gonzalo de Córdoba, 528010 Madrid Spain" ;
+	ns1:latitude "40.4323294" ;
+	ns1:longitude "-3.7031203000000001" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Burgers, Hot Dogs, Salad" ;
+	:stars "4.5" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/madrid-xanadú-arroyomolinos> :price "Moderate" ;
+	:address "Calle Puerto de Navacerrada28939 ArroyomolinosSpain" ;
+	ns1:latitude "40.301095400000001" ;
+	ns1:longitude "-3.9272732000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Shopping Centers, Department Stores" ;
+	:stars "4" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/mercado-de-san-ildefonso-madrid> :price "Moderate" ;
+	:address "Calle de Fuencarral, 57Madrid Spain" ;
+	ns1:latitude "40.424178907972603" ;
+	ns1:longitude "-3.70072613834532" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Farmers Market, Street Vendors" ;
+	:stars "3" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/rocablanca-madrid> :price "Under €20" ;
+	:address "Calle de Fuencarral, 7128004 Madrid Spain" ;
+	ns1:latitude "40.424597215856998" ;
+	ns1:longitude "-3.7007999322598999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "4.5" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/lateral-madrid> :price "€21-50" ;
+	:address "Calle de Fuencarral, 4328004 Madrid Spain" ;
+	ns1:latitude "40.422909300000001" ;
+	ns1:longitude "-3.7008103999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Tapas/Small Plates, Tapas Bars" ;
+	:stars "4" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/jota-madrid> :price "€21-50" ;
+	:address "Calle de Sandoval, 628010 Madrid Spain" ;
+	ns1:latitude "40.430039600000001" ;
+	ns1:longitude "-3.7035477000000001" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "3.5" ;
+	:district "Fuencarral" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/xentes-madrid> :price "" ;
+	:address "Calle del Humilladero, 1328005 Madrid Spain" ;
+	ns1:latitude "40.4099717" ;
+	ns1:longitude "-3.7103001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Tapas/Small Plates, Galician" ;
+	:stars "4" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-candelita-madrid> :price "€21-50" ;
+	:address "Calle del Barquillo, 3028004 Madrid Spain" ;
+	ns1:latitude "40.4227317" ;
+	ns1:longitude "-3.6955776999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Spanish, Latin American, Cocktail Bars" ;
+	:stars "3.5" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/playa-de-riazor-madrid> :price "€21-50" ;
+	:address "Calle de Toledo, 1928005 Madrid Spain" ;
+	ns1:latitude "40.408864899999998" ;
+	ns1:longitude "-3.7009025000000002" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Galician, Tapas Bars" ;
+	:stars "4.5" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-lucas-madrid> :price "€21-50" ;
+	:address "Calle de la Cava Baja, 3028005 Madrid Spain" ;
+	ns1:latitude "40.412328199999997" ;
+	ns1:longitude "-3.7093883999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Tapas Bars, Wine Bars" ;
+	:stars "4" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-perejila-madrid> :price "€21-50" ;
+	:address "Calle de la Cava Baja, 2528005 Madrid Spain" ;
+	ns1:latitude "40.412328600000002" ;
+	ns1:longitude "-3.7092334" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Tapas Bars" ;
+	:stars "5" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-musa-latina-madrid> :price "€21-50" ;
+	:address "Costanilla de San Andrés, 1228005 Madrid Spain" ;
+	ns1:latitude "40.412911100000002" ;
+	ns1:longitude "-3.7119613" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Pubs, Tapas Bars, Modern European" ;
+	:stars "4.5" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/taberna-rayuela-madrid> :price "€21-50" ;
+	:address "Calle de la Morería, 828005 Madrid Spain" ;
+	ns1:latitude "40.413114" ;
+	ns1:longitude "-3.7132494999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Tapas/Small Plates, Tabernas" ;
+	:stars "4" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/naïa-madrid-2> :price "€51-100" ;
+	:address "Plaza de la Paja, 328005 Madrid Spain" ;
+	ns1:latitude "40.412854899999999" ;
+	ns1:longitude "-3.7114579999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Mediterranean, Spanish" ;
+	:stars "3" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-gerardo-madrid-2> :price "€21-50" ;
+	:address "Calle de Calatrava, 2128005 Madrid Spain" ;
+	ns1:latitude "40.409236999999997" ;
+	ns1:longitude "-3.7118717999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Food" ;
+	:stars "4" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/juana-la-loca-madrid> :price "€51-100" ;
+	:address "Plaza de Puerta de Moros, 428005 Madrid Spain" ;
+	ns1:latitude "40.411353699999999" ;
+	ns1:longitude "-3.7110884" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Tapas Bars" ;
+	:stars "4.5" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/gandarío-madrid-2> :price "€21-50" ;
+	:address "Calle de Gaztambide, 2828015 Madrid Spain" ;
+	ns1:latitude "40.434553999999999" ;
+	ns1:longitude "-3.7154544" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/bravas-madrid-2> :price "Under €20" ;
+	:address "Calle de Meléndez Valdés, 6228015 Madrid Spain" ;
+	ns1:latitude "40.433149" ;
+	ns1:longitude "-3.7162009" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Burgers, Tapas Bars, Tapas/Small Plates" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/don-oso-madrid> :price "Under €20" ;
+	:address "Calle de Donoso Cortés, 9028015 Madrid Spain" ;
+	ns1:latitude "40.436611300000003" ;
+	ns1:longitude "-3.7163507" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Burgers, Hot Dogs" ;
+	:stars "5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/faro-de-moncloa-madrid-2> :price "" ;
+	:address "Avenida de los Reyes Católicos, 028040 Madrid Spain" ;
+	ns1:latitude "40.439148199999998" ;
+	ns1:longitude "-3.7178597" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Landmarks & Historical Buildings" ;
+	:stars "4" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/platos-rotos-madrid> :price "€21-50" ;
+	:address "Calle de Ferraz, 3928008 Madrid Spain" ;
+	ns1:latitude "40.428673699999997" ;
+	ns1:longitude "-3.7198866000000002" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Modern European, Burgers" ;
+	:stars "3.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/hoces-del-durat%C3%B3n-madrid-2> :price "Under €20" ;
+	:address "Calle San Bernardo, 12628015 Madrid Spain" ;
+	ns1:latitude "40.432409397288701" ;
+	ns1:longitude "-3.7045781730163299" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars, Spanish, Tapas/Small Plates" ;
+	:stars "5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/copérnico-madrid-2> :price "€51-100" ;
+	:address "Calle de Fernández de los Ríos, 6728015 Madrid Spain" ;
+	ns1:latitude "40.435275099999998" ;
+	ns1:longitude "-3.7137381999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Dance Clubs, Music Venues, Spanish" ;
+	:stars "3" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-paco-madrid-3> :price "Under €20" ;
+	:address "Calle de Altamirano, 3828008 Madrid Spain" ;
+	ns1:latitude "40.4303423" ;
+	ns1:longitude "-3.7203374" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars, Tapas/Small Plates, Pubs" ;
+	:stars "4" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/manolo-madrid-3> :price "€21-50" ;
+	:address "Calle Princesa, 8328008 Madrid Spain" ;
+	ns1:latitude "40.432623999999997" ;
+	ns1:longitude "-3.7178990999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Tapas/Small Plates, Breakfast & Brunch" ;
+	:stars "4.5" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/terraza-hotel-exe-moncloa-madrid> :price "" ;
+	:address "Calle del Arcipreste de Hita, 1028015 Madrid Spain" ;
+	ns1:latitude "40.433731700000003" ;
+	ns1:longitude "-3.7175435000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Pubs, Lounges, Spanish" ;
+	:stars "4" ;
+	:district "Chamberí" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/shukran-madrid-2> :price "€21-50" ;
+	:address "Calle Alcalá, 6228009 Madrid Spain" ;
+	ns1:latitude "40.4217595" ;
+	ns1:longitude "-3.6821164999999998" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Halal, Middle Eastern" ;
+	:stars "4.5" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/bentleys-madrid> :price "Under €20" ;
+	:address "Calle de Alcalá, 10528009 Madrid Spain" ;
+	ns1:latitude "40.421581891695901" ;
+	ns1:longitude "-3.6833089962601702" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "American (Traditional)" ;
+	:stars "4" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/kimura-madrid> :price "€51-100" ;
+	:address "Calle Alberto Bosch, 1428014 Madrid Spain" ;
+	ns1:latitude "40.413336899999997" ;
+	ns1:longitude "-3.6894787" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Japanese, Sushi Bars" ;
+	:stars "3.5" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/arúgula-madrid> :price "" ;
+	:address "Calle de Velázquez, 928001 Madrid Spain" ;
+	ns1:latitude "40.422015000000002" ;
+	ns1:longitude "-3.6845903999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Salad, Food Delivery Services, Mediterranean" ;
+	:stars "4.5" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/harina-madrid> :price "€21-50" ;
+	:address "Plaza de la Independencia, 1028014 Madrid Spain" ;
+	ns1:latitude "40.419550399999999" ;
+	ns1:longitude "-3.6894737000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Bakeries, Breakfast & Brunch" ;
+	:stars "4.5" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/fonty-madrid-2> :price "€21-50" ;
+	:address "Calle de Castelló, 1228001 Madrid Spain" ;
+	ns1:latitude "40.423074073570596" ;
+	ns1:longitude "-3.6816701443611199" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Cafeteria, French" ;
+	:stars "3" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/carlos-tartiere-madrid> :price "€51-100" ;
+	:address "Calle de Menorca, 3528009 Madrid Spain" ;
+	ns1:latitude "40.419463" ;
+	ns1:longitude "-3.675071" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Asturian" ;
+	:stars "4.5" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/pinocchio-zona-retiro-madrid> :price "€21-50" ;
+	:address "Plaza Doctor Laguna, 728009 Madrid Spain" ;
+	ns1:latitude "40.4157005" ;
+	ns1:longitude "-3.6717401000000001" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Italian" ;
+	:stars "4.5" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-gruta-del-parque-del-buen-retiro-madrid> :price "Under €20" ;
+	:address "Parque del Retiro28009 Madrid Spain" ;
+	ns1:latitude "40.415423500000003" ;
+	ns1:longitude "-3.6842358000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas/Small Plates, Coffee & Tea, Bars" ;
+	:stars "4.5" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casona-retiro-madrid> :price "" ;
+	:address "Calle de Juan de Mena, 1228014 Madrid Spain" ;
+	ns1:latitude "40.417253799999997" ;
+	ns1:longitude "-3.6898140000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4" ;
+	:district "Retiro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/nimú-bistró-madrid> :price "€21-50" ;
+	:address "Calle de Goya, 3128001 Madrid Spain" ;
+	ns1:latitude "40.425362200000002" ;
+	ns1:longitude "-3.6844809000000001" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Gastropubs, Modern European" ;
+	:stars "4" ;
+	:district "Salamanca" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-julián-madrid-2> :price "" ;
+	:address "Calle de Don Ramón de la Cruz, 1028001 Madrid Spain" ;
+	ns1:latitude "40.429118500000001" ;
+	ns1:longitude "-3.6858382999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4.5" ;
+	:district "Salamanca" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/casa-dani-madrid> :price "" ;
+	:address "Calle de Ayala, 2828001 Madrid Spain" ;
+	ns1:latitude "40.427730942936002" ;
+	ns1:longitude "-3.6858000978827499" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Restaurants" ;
+	:stars "3" ;
+	:district "Salamanca" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/salamanca-madrid-3> :price "" ;
+	:address "Calle de la Cava Baja, 3128005 Madrid Spain" ;
+	ns1:latitude "40.412500000000001" ;
+	ns1:longitude "-3.7089400000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Pubs, Tapas Bars" ;
+	:stars "3.5" ;
+	:district "La Latina" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/pimiento-verde-madrid-2> :price "€51-100" ;
+	:address "Calle de Lagasca, 4628001 Madrid Spain" ;
+	ns1:latitude "40.4257481" ;
+	ns1:longitude "-3.6852368000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Basque" ;
+	:stars "4" ;
+	:district "Salamanca" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-celestina-madrid> :price "€51-100" ;
+	:address "Calle de Lagasca, 6728001 Madrid Spain" ;
+	ns1:latitude "40.428626299999998" ;
+	ns1:longitude "-3.6851172999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "4.5" ;
+	:district "Salamanca" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/jumar-coslada> :price "" ;
+	:address "avda. fuentemarCoslada, Madrid Spain" ;
+	ns1:latitude "40.432731599999997" ;
+	ns1:longitude "-3.5484483" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Restaurants" ;
+	:stars "3.5" ;
+	:district "" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/jurucha-madrid> :price "Under €20" ;
+	:address "Calle de Ayala, 1928001 Madrid Spain" ;
+	ns1:latitude "40.427886000000001" ;
+	ns1:longitude "-3.6856969999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "4.5" ;
+	:district "Salamanca" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/estay-madrid> :price "€21-50" ;
+	:address "Calle de Hermosilla, 4628001 Madrid Spain" ;
+	ns1:latitude "40.426194799999998" ;
+	ns1:longitude "-3.6821872999999998" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Tapas Bars" ;
+	:stars "4" ;
+	:district "Salamanca" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-paraguas-madrid> :price "€51-100" ;
+	:address "Calle de Jorge Juan, 1628001 Madrid Spain" ;
+	ns1:latitude "40.426833600000002" ;
+	ns1:longitude "-3.6951019999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Spanish, Asturian" ;
+	:stars "4" ;
+	:district "Justicia" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/don-lisander-trattoria-madrid> :price "€21-50" ;
+	:address "Calle de la Infanta Mercedes, 1328020 Madrid Spain" ;
+	ns1:latitude "40.453492099999998" ;
+	ns1:longitude "-3.6993801999999998" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Italian, Pizza" ;
+	:stars "3.5" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ondiñas-do-mendo-madrid-2> :price "Under €20" ;
+	:address "Calle de Villaamil, 428039 Madrid Spain" ;
+	ns1:latitude "40.4567908" ;
+	ns1:longitude "-3.7050917000000001" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars, Spanish" ;
+	:stars "4.5" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/maru-madrid> :price "€21-50" ;
+	:address "Calle Reina, 3728004 Madrid Spain" ;
+	ns1:latitude "40.419752600000002" ;
+	ns1:longitude "-3.6977853999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Sushi Bars, Korean, Japanese" ;
+	:stars "4" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-brillante-madrid-5> :price "" ;
+	:address "Calle Bravo Murillo 16128020 Madrid Spain" ;
+	ns1:latitude "40.452234400000002" ;
+	ns1:longitude "-3.7033806999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/andoriña-madrid> :price "€21-50" ;
+	:address "Calle Lérida, 9228020 Madrid Spain" ;
+	ns1:latitude "40.459003992587199" ;
+	ns1:longitude "-3.6990679800510402" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Galician" ;
+	:stars "4" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-alhambra-madrid> :price "Under €20" ;
+	:address "Calle del Tribulete, 428012 Madrid Spain" ;
+	ns1:latitude "40.408217800000003" ;
+	ns1:longitude "-3.7016722999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Moroccan" ;
+	:stars "4.5" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-maquina-madrid> :price "€51-100" ;
+	:address "Calle Sor ÿngela de la Cruz, 2228020 Madrid Spain" ;
+	ns1:latitude "40.459678099999998" ;
+	ns1:longitude "-3.6951075000000002" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "5" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/piccola-napoli-madrid> :price "€21-50" ;
+	:address "Calle Palencia, 3028020 Madrid Spain" ;
+	ns1:latitude "40.449687384223999" ;
+	ns1:longitude "-3.7005466074197" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Pizza, Food Delivery Services, Italian" ;
+	:stars "4" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ninsei-madrid> :price "€21-50" ;
+	:address "Calle de la Reina Mercedes, 2228020 Madrid Spain" ;
+	ns1:latitude "40.450839500000001" ;
+	ns1:longitude "-3.697152" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "Yes" ;
+	:foodtype "Korean, Japanese, Thai" ;
+	:stars "4.5" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ibero-china-internacional-madrid> :price "Moderate" ;
+	:address "Calle del General Margallo, 428020 Madrid Spain" ;
+	ns1:latitude "40.460999399999999" ;
+	ns1:longitude "-3.697565" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Specialty Food" ;
+	:stars "4" ;
+	:district "Tetuán" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-parrilla-de-usera-madrid> :price "" ;
+	:address "Pilarica 20-45-2928026 Madrid Spain" ;
+	ns1:latitude "40.385819699999999" ;
+	ns1:longitude "-3.7033729000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Restaurants" ;
+	:stars "4" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/royal-cantonés-madrid-2> :price "Under €20" ;
+	:address "Calle del Olvido, 9228026 Madrid Spain" ;
+	ns1:latitude "40.382983600000003" ;
+	ns1:longitude "-3.702483" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Dim Sum" ;
+	:stars "3.5" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/oq-bubble-tea-bar-madrid> :price "" ;
+	:address "Calle de Ortiz Campos, 228026 Madrid Spain" ;
+	ns1:latitude "40.385331600000001" ;
+	ns1:longitude "-3.7065171000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Steakhouses, Juice Bars & Smoothies" ;
+	:stars "4" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/usera-madrid-2> :price "" ;
+	:address "Avenida Rafaela Ybarra, 1228041 Madrid Spain" ;
+	ns1:latitude "40.382244738905698" ;
+	ns1:longitude "-3.71131427586079" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Rotisserie Chicken" ;
+	:stars "5" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-parrilla-iii-madrid> :price "€21-50" ;
+	:address "Calle de la Pilarica, 2028026 Madrid Spain" ;
+	ns1:latitude "40.385816200000001" ;
+	ns1:longitude "-3.7033318" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Steakhouses" ;
+	:stars "4.5" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-pincho-de-usera-madrid> :price "" ;
+	:address "Calle Jesus del Gran Poder, 42 - BC 5028026 Madrid Spain" ;
+	ns1:latitude "40.384808300000003" ;
+	ns1:longitude "-3.7054372999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Restaurants" ;
+	:stars "4.5" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/los-serranos-madrid> :price "" ;
+	:address "Calle de Joaquín Márquez, 928026 Madrid Spain" ;
+	ns1:latitude "40.3850902" ;
+	ns1:longitude "-3.7094860999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "3.5" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-pincho-de-usera-madrid-2> :price "" ;
+	:address "Calle Jesus del Gran Poder, 4228026 Madrid Spain" ;
+	ns1:latitude "40.386404400000004" ;
+	ns1:longitude "-3.7010097000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Restaurants" ;
+	:stars "5" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/da-fa-madrid> :price "" ;
+	:address "Calle de Antonio López, 16628026 Madrid Spain" ;
+	ns1:latitude "40.388778199999997" ;
+	ns1:longitude "-3.7004253999999999" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "Delivery Yes" ;
+	:foodtype "Dim Sum" ;
+	:stars "4" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/el-fogón-de-usera-madrid> :price "" ;
+	:address "Calle De Ramon De Madariaga 1028026 Madrid Spain" ;
+	ns1:latitude "40.387836100000001" ;
+	ns1:longitude "-3.7076131000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "3" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/ciri-madrid> :price "Under €20" ;
+	:address "Calle del Amor Hermoso, 2128026 Madrid Spain" ;
+	ns1:latitude "40.386331499999997" ;
+	ns1:longitude "-3.7039610999999999" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Restaurants" ;
+	:stars "3" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/bocata-stop-madrid> :price "" ;
+	:address "Calle de Marcelo Usera, 7328026 Madrid Spain" ;
+	ns1:latitude "40.385823299999998" ;
+	ns1:longitude "-3.7055674000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Fast Food" ;
+	:stars "4.5" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/la-central-del-buen-gusto-madrid> :price "" ;
+	:address "Avenida De Cordoba, 728026 Madrid Spain" ;
+	ns1:latitude "40.387501499999999" ;
+	ns1:longitude "-3.7006161" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish, Tabernas" ;
+	:stars "4" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/apolo-madrid> :price "" ;
+	:address "Calle de Marcelo Usera, 10428026 Madrid Spain" ;
+	ns1:latitude "40.385680100000002" ;
+	ns1:longitude "-3.7082457" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Breakfast & Brunch" ;
+	:stars "3.5" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/manchego-madrid> :price "" ;
+	:address "Calle del Amparo, 4628012 Madrid Spain" ;
+	ns1:latitude "40.409016600000001" ;
+	ns1:longitude "-3.7025412000000002" ;
+	:reservations "Takes Reservations N" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "4" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/van-gogh-madrid> :price "" ;
+	:address "Calle de Marcelo Usera, 9128026 Madrid Spain" ;
+	ns1:latitude "40.3856684" ;
+	ns1:longitude "-3.7069456000000001" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Breakfast & Brunch" ;
+	:stars "4" ;
+	:district "Usera" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/arte-diet-madrid-2> :price "" ;
+	:address "Calle de Villardondiego, 2228032 Madrid Spain" ;
+	ns1:latitude "40.406928600000001" ;
+	ns1:longitude "-3.608374" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Gluten-Free, Bakeries" ;
+	:stars "3.5" ;
+	:district "Vicálvaro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/asador-de-vicalvaro-madrid> :price "" ;
+	:address "Canteras de tilli28032 Madrid Spain" ;
+	ns1:latitude "40.402397800000003" ;
+	ns1:longitude "-3.6037032999999998" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Spanish" ;
+	:stars "4" ;
+	:district "Vicálvaro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/vicus-madrid> :price "" ;
+	:address "Plaza de Don Antonio de Andrés28032 Madrid Spain" ;
+	ns1:latitude "40.401909000000003" ;
+	ns1:longitude "-3.6057450000000002" ;
+	:reservations "Takes Reservations Yes" ;
+	:takeout "No" ;
+	:foodtype "Tapas Bars" ;
+	:stars "4.5" ;
+	:district "Vicálvaro" .
+
+<http://sefarad.gsi.dit.upm.es/rdf/gp/restaurants/de-buena-cepa-madrid> :price "€21-50" ;
+	:address "Bulevar José Prat, 3228032 Madrid Spain" ;
+	ns1:latitude "40.396766300000003" ;
+	ns1:longitude "-3.6209209000000002" ;
+	:reservations "Takes Reservations No" ;
+	:takeout "No" ;
+	:foodtype "Wine Bars, Spanish" ;
+	:stars "4" ;
+	:district "Vicálvaro" .

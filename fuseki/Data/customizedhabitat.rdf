@@ -1,0 +1,1273 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://natura2000.eea.europa.eu/Natura2000/rdf/schema.rdf#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Medio-European%20upland%20siliceous%20screes_2">
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonian-Balkanic%20turkey%20oak%20–sessile%20oak%20forests_4">
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Rupicolous%20calcareous%20or%20basophilic%20grasslands%20of%20the%20Alysso-Sedion%20albi_2">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Luzulo-Fagetum%20beech%20forests_4">
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/European%20dry%20heaths_2">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Species-rich%20Nardus%20grasslands,%20on%20silicious%20substrates%20in%20mountain%20areas%20(and%20submountain%20areas%20in%20Continental%20Europe)_1">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Western%20Carpathian%20calcicolous%20Pinus%20sylvestris%20forests_4">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Natural%20dystrophic%20lakes%20and%20ponds_2">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Euro-Siberian%20steppic%20woods%20with%20Quercus%20spp._2">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonic%20sand%20steppes_2">
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Oligotrophic%20to%20mesotrophic%20standing%20waters%20with%20vegetation%20of%20the%20Littorelletea%20uniflorae%20and/or%20of%20the%20Isoëto-Nanojuncetea_2">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Transition%20mires%20and%20quaking%20bogs_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Acidophilous%20Picea%20forests%20of%20the%20montane%20to%20alpine%20levels%20(Vaccinio-Piceetea)_1">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Medio-European%20limestone%20beech%20forests%20of%20the%20Cephalanthero-Fagion_4">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Degraded%20raised%20bogs%20still%20capable%20of%20natural%20regeneration_4">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonic%20salt%20steppes%20and%20salt%20marshes_4">
+    <SITECODE>SKCHVU005</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alluvial%20forests%20with%20Alnus%20glutinosa%20and%20Fraxinus%20excelsior%20(Alno-Padion,%20Alnion%20incanae,%20Salicion%20albae)_1">
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU004</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Species-rich%20Nardus%20grasslands,%20on%20silicious%20substrates%20in%20mountain%20areas%20(and%20submountain%20areas%20in%20Continental%20Europe)_2">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Medio-European%20calcareous%20scree%20of%20hill%20and%20montane%20levels_2">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Galio-Carpinetum%20oak-hornbeam%20forests_1">
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Active%20raised%20bogs_1">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonic%20woods%20with%20Quercus%20petraea%20and%20Carpinus%20betulus_1">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Sub-Arctic%20Salix%20spp.%20scrub_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20and%20Boreal%20heaths_1">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonic%20sand%20steppes_1">
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Siliceous%20rocky%20slopes%20with%20chasmophytic%20vegetation_4">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Oligotrophic%20to%20mesotrophic%20standing%20waters%20with%20vegetation%20of%20the%20Littorelletea%20uniflorae%20and/or%20of%20the%20Isoëto-Nanojuncetea_1">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alluvial%20meadows%20of%20river%20valleys%20of%20the%20Cnidion%20dubii_2">
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Rupicolous%20pannonic%20grasslands%20(Stipo-Festucetalia%20pallentis)_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Bushes%20with%20Pinus%20mugo%20and%20Rhododendron%20hirsutum%20(Mugo-Rhododendretum%20hirsuti)_4">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Calcareous%20and%20calcshist%20screes%20of%20the%20montane%20to%20alpine%20levels%20(Thlaspietea%20rotundifolii)_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Siliceous%20rock%20with%20pioneer%20vegetation%20of%20the%20Sedo-Scleranthion%20or%20of%20the%20Sedo%20albi-Veronicion%20dillenii_2">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Subcontinental%20peri-Pannonic%20scrub_1">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Petrifying%20springs%20with%20tufa%20formation%20(Cratoneurion)_4">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Semi-natural%20dry%20grasslands%20and%20scrubland%20facies%20on%20calcareous%20substrates%20(Festuco-Brometalia)%20(*%20important%20orchid%20sites)_4">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Rupicolous%20calcareous%20or%20basophilic%20grasslands%20of%20the%20Alysso-Sedion%20albi_4">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Inland%20salt%20meadows_1">
+    <SITECODE>SKCHVU004</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20rivers%20and%20their%20ligneous%20vegetation%20with%20Myricaria%20germanica_2">
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Bushes%20with%20Pinus%20mugo%20and%20Rhododendron%20hirsutum%20(Mugo-Rhododendretum%20hirsuti)_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Juniperus%20communis%20formations%20on%20heaths%20or%20calcareous%20grasslands_4">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Rivers%20with%20muddy%20banks%20with%20Chenopodion%20rubri%20p.p.%20and%20Bidention%20p.p.%20vegetation_4">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Western%20Carpathian%20calcicolous%20Pinus%20sylvestris%20forests_2">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20and%20subalpine%20calcareous%20grasslands_1">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Hard%20oligo-mesotrophic%20waters%20with%20benthic%20vegetation%20of%20Chara%20spp._2">
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonian%20woods%20with%20Quercus%20pubescens_4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Sub-Arctic%20Salix%20spp.%20scrub_2">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Bog%20woodland_4">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Siliceous%20scree%20of%20the%20montane%20to%20snow%20levels%20(Androsacetalia%20alpinae%20and%20Galeopsietalia%20ladani)_2">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Asperulo-Fagetum%20beech%20forests_4">
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Calcareous%20rocky%20slopes%20with%20chasmophytic%20vegetation_1">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Water%20courses%20of%20plain%20to%20montane%20levels%20with%20the%20Ranunculion%20fluitantis%20and%20Callitricho-Batrachion%20vegetation_1">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20rivers%20and%20their%20ligneous%20vegetation%20with%20Myricaria%20germanica_1">
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonic%20salt%20steppes%20and%20salt%20marshes_2">
+    <SITECODE>SKCHVU005</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Mountain%20hay%20meadows_2">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Natural%20dystrophic%20lakes%20and%20ponds_1">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Galio-Carpinetum%20oak-hornbeam%20forests_4">
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Caves%20not%20open%20to%20the%20public_1">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Natural%20eutrophic%20lakes%20with%20Magnopotamion%20or%20Hydrocharition%20-%20type%20vegetation_4">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU006</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Siliceous%20rocky%20slopes%20with%20chasmophytic%20vegetation_2">
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Calcareous%20and%20calcshist%20screes%20of%20the%20montane%20to%20alpine%20levels%20(Thlaspietea%20rotundifolii)_2">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Rupicolous%20pannonic%20grasslands%20(Stipo-Festucetalia%20pallentis)_4">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Bushes%20with%20Pinus%20mugo%20and%20Rhododendron%20hirsutum%20(Mugo-Rhododendretum%20hirsuti)_2">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Semi-natural%20dry%20grasslands%20and%20scrubland%20facies%20on%20calcareous%20substrates%20(Festuco-Brometalia)%20(*%20important%20orchid%20sites)_2">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Water%20courses%20of%20plain%20to%20montane%20levels%20with%20the%20Ranunculion%20fluitantis%20and%20Callitricho-Batrachion%20vegetation_2">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Calcareous%20rocky%20slopes%20with%20chasmophytic%20vegetation_2">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Riparian%20mixed%20forests%20of%20Quercus%20robur,%20Ulmus%20laevis%20and%20Ulmus%20minor,%20Fraxinus%20excelsior%20or%20Fraxinus%20angustifolia,%20along%20the%20great%20rivers%20(Ulmenion%20minoris)_2">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU037</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alluvial%20forests%20with%20Alnus%20glutinosa%20and%20Fraxinus%20excelsior%20(Alno-Padion,%20Alnion%20incanae,%20Salicion%20albae)_4">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU004</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20rivers%20and%20their%20ligneous%20vegetation%20with%20Myricaria%20germanica_4">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Juniperus%20communis%20formations%20on%20heaths%20or%20calcareous%20grasslands_2">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Rivers%20with%20muddy%20banks%20with%20Chenopodion%20rubri%20p.p.%20and%20Bidention%20p.p.%20vegetation_2">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonic%20woods%20with%20Quercus%20petraea%20and%20Carpinus%20betulus_4">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Caves%20not%20open%20to%20the%20public_2">
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Sub-Pannonic%20steppic%20grasslands_4">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Hydrophilous%20tall%20herb%20fringe%20communities%20of%20plains%20and%20of%20the%20montane%20to%20alpine%20levels_1">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Bog%20woodland_2">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Asperulo-Fagetum%20beech%20forests_2">
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Siliceous%20scree%20of%20the%20montane%20to%20snow%20levels%20(Androsacetalia%20alpinae%20and%20Galeopsietalia%20ladani)_4">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Semi-natural%20dry%20grasslands%20and%20scrubland%20facies%20on%20calcareous%20substrates%20(Festuco-Brometalia)%20(*%20important%20orchid%20sites)_1">
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Subcontinental%20peri-Pannonic%20scrub_2">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonian%20woods%20with%20Quercus%20pubescens_2">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20rivers%20and%20the%20herbaceous%20vegetation%20along%20their%20banks_1">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Siliceous%20alpine%20and%20boreal%20grasslands_1">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Medio-European%20subalpine%20beech%20woods%20with%20Acer%20and%20Rumex%20arifolius_2">
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20Larix%20decidua%20and/or%20Pinus%20cembra%20forests_2">
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alkaline%20fens_4">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Acidophilous%20Picea%20forests%20of%20the%20montane%20to%20alpine%20levels%20(Vaccinio-Piceetea)_4">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Western%20Carpathian%20calcicolous%20Pinus%20sylvestris%20forests_1">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20rivers%20and%20their%20ligneous%20vegetation%20with%20Salix%20elaeagnos_1">
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Hydrophilous%20tall%20herb%20fringe%20communities%20of%20plains%20and%20of%20the%20montane%20to%20alpine%20levels_2">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Lowland%20hay%20meadows%20Alopecurus%20pratensis,%20Sanguisorba%20officinalis_1">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Natural%20eutrophic%20lakes%20with%20Magnopotamion%20or%20Hydrocharition%20-%20type%20vegetation_2">
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU006</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Petrifying%20springs%20with%20tufa%20formation%20(Cratoneurion)_2">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Asperulo-Fagetum%20beech%20forests_1">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Tilio-Acerion%20forests%20of%20slopes,%20screes%20and%20ravines_2">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Medio-European%20upland%20siliceous%20screes_4">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonian-Balkanic%20turkey%20oak%20–sessile%20oak%20forests_2">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Luzulo-Fagetum%20beech%20forests_2">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Calcareous%20rocky%20slopes%20with%20chasmophytic%20vegetation_4">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alkaline%20fens_1">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Xeric%20sand%20calcareous%20grasslands_1">
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Siliceous%20alpine%20and%20boreal%20grasslands_4">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Natural%20eutrophic%20lakes%20with%20Magnopotamion%20or%20Hydrocharition%20-%20type%20vegetation_1">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU006</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Caves%20not%20open%20to%20the%20public_4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Natural%20dystrophic%20lakes%20and%20ponds_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Active%20raised%20bogs_4">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Calcareous%20fens%20with%20Cladium%20mariscus%20and%20species%20of%20the%20Caricion%20davallianae_2">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Pannonic%20woods%20with%20Quercus%20petraea%20and%20Carpinus%20betulus_2">
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Euro-Siberian%20steppic%20woods%20with%20Quercus%20spp._4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Lowland%20hay%20meadows%20(Alopecurus%20pratensis,%20Sanguisorba%20officinalis)_2">
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20rivers%20and%20the%20herbaceous%20vegetation%20along%20their%20banks_4">
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Molinia%20meadows%20on%20calcareous,%20peaty%20or%20clayey-silt-laden%20soils%20(Molinion%20caeruleae)_1">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Sub-Pannonic%20steppic%20grasslands_2">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Rupicolous%20pannonic%20grasslands%20(Stipo-Festucetalia%20pallentis)_1">
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Luzulo-Fagetum%20beech%20forests_1">
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/European%20dry%20heaths_1">
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20Larix%20decidua%20and/or%20Pinus%20cembra%20forests_4">
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Medio-European%20subalpine%20beech%20woods%20with%20Acer%20and%20Rumex%20arifolius_4">
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alpine%20and%20subalpine%20calcareous%20grasslands_4">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Medio-European%20calcareous%20scree%20of%20hill%20and%20montane%20levels_4">
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Juniperus%20communis%20formations%20on%20heaths%20or%20calcareous%20grasslands_1">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU031</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Calcareous%20fens%20with%20Cladium%20mariscus%20and%20species%20of%20the%20Caricion%20davallianae_1">
+    <SITECODE>SKCHVU013</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Hydrophilous%20tall%20herb%20fringe%20communities%20of%20plains%20and%20of%20the%20montane%20to%20alpine%20levels_4">
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU007</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Transition%20mires%20and%20quaking%20bogs_1">
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU011</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU002</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Siliceous%20rock%20with%20pioneer%20vegetation%20of%20the%20Sedo-Scleranthion%20or%20of%20the%20Sedo%20albi-Veronicion%20dillenii_4">
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU025</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Medio-European%20limestone%20beech%20forests%20of%20the%20Cephalanthero-Fagion_1">
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU035</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU028</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Alluvial%20meadows%20of%20river%20valleys%20of%20the%20Cnidion%20dubii_4">
+    <SITECODE>SKCHVU005</SITECODE>
+    <SITECODE>SKCHVU021</SITECODE>
+    <SITECODE>SKCHVU024</SITECODE>
+    <SITECODE>SKCHVU016</SITECODE>
+    <SITECODE>SKCHVU015</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Degraded%20raised%20bogs%20still%20capable%20of%20natural%20regeneration_2">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Acidophilous%20Picea%20forests%20of%20the%20montane%20to%20alpine%20levels%20(Vaccinio-Piceetea)_2">
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU008</SITECODE>
+    <SITECODE>SKCHVU018</SITECODE>
+    <SITECODE>SKCHVU033</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU013</SITECODE>
+    <SITECODE>SKCHVU030</SITECODE>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/habitats/Sub-Pannonic%20steppic%20grasslands_1">
+    <SITECODE>SKCHVU025</SITECODE>
+    <SITECODE>SKCHVU027</SITECODE>
+    <SITECODE>SKCHVU017</SITECODE>
+    <SITECODE>SKCHVU022</SITECODE>
+    <SITECODE>SKCHVU014</SITECODE>
+    <SITECODE>SKCHVU003</SITECODE>
+    <SITECODE>SKCHVU036</SITECODE>
+  </rdf:Description>
+</rdf:RDF>

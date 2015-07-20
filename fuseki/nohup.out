@@ -1,0 +1,13 @@
+14:26:18 INFO  Dataset path = /geo
+14:26:18 INFO  Dataset path = /restaurants
+14:26:18 INFO  Dataset path = /slovakia
+14:26:18 INFO  Dataset path = /districts
+14:26:18 INFO  Dataset path = /gisai
+14:26:18 INFO  Dataset path = /customizedspecies
+14:26:18 INFO  Dataset path = /customizedhabitat
+14:26:18 INFO  Dataset path = /customizedsites
+14:26:18 INFO  Dataset path = /slovakiarefined
+14:26:18 INFO  Dataset path = /onyx
+14:26:18 INFO  Fuseki 1.1.0 2014-07-26T18:10:29+0100
+14:26:18 INFO  Started 2015/07/16 14:26:18 EDT on port 3030
+14:26:19 ERROR SPARQLServer: Failed to start server: Address already in use

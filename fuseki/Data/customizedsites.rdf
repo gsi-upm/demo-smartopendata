@@ -1,0 +1,1516 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://natura2000.eea.europa.eu/Natura2000/rdf/schema.rdf#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:j.1="http://inspire.jrc.ec.europa.eu/schemas/ps/3.0/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU022_2">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.613889</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU022&amp;release=2"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.476944</geo:long>
+    <j.1:name>Poľana</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >32188.3800</j.1:area_ha>
+    <j.1:site_code>SKCHVU022</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU024_4">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2668.4700</j.1:area_ha>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:name>Senianske rybníky</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU024&amp;release=4"/>
+    <j.1:site_code>SKCHVU024</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.689167</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >22.060278</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU051_2">
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU051&amp;release=2"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >46072.7690</j.1:area_ha>
+    <j.1:site_code>SKCHVU051</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.136944</geo:lat>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:name>Levočské vrchy</j.1:name>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.670833</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU026_2">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >509.2700</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:name>Sĺňava</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU026&amp;release=2"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.554722</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.827500</geo:long>
+    <j.1:site_code>SKCHVU026</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU016_2">
+    <j.1:site_code>SKCHVU016</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.543611</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >16.982778</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >31072.9200</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU016&amp;release=2"/>
+    <j.1:name>Záhorské Pomoravie</j.1:name>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU054_1">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >5533.5300</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.641667</geo:long>
+    <j.1:name>Špačinsko-nižnianské polia</j.1:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.481944</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU054&amp;release=1"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_code>SKCHVU054</j.1:site_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU015_1">
+    <j.1:name>Medzibodrožie</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU015&amp;release=1"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.918889</geo:long>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU015</j.1:site_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.452500</geo:lat>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >33753.7000</j.1:area_ha>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU035_1">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >22.270833</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.806944</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48286.2640</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU035&amp;release=1"/>
+    <j.1:site_code>SKCHVU035</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:name>Vihorlatské vrchy</j.1:name>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU011_4">
+    <j.1:name>Laborecká vrchovina</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU011&amp;release=4"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.199167</geo:lat>
+    <j.1:site_code>SKCHVU011</j.1:site_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >102813.9100</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.859167</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU005_4">
+    <j.1:site_code>SKCHVU005</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:name>Dolné Považie</j.1:name>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU005&amp;release=4"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47.959444</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >31195.5000</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.172500</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU030_4">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >54611.2900</j.1:area_ha>
+    <j.1:name>Tatry</j.1:name>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.950556</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.194167</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU030&amp;release=4"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_code>SKCHVU030</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU009_4">
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.241944</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.611667</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17354.3100</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU009&amp;release=4"/>
+    <j.1:name>Košická kotlina</j.1:name>
+    <j.1:site_code>SKCHVU009</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU028_4">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.436944</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU028&amp;release=4"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.958889</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >58673.0800</j.1:area_ha>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_code>SKCHVU028</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:name>Strážovské vrchy</j.1:name>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU034_4">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >91.3400</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU034&amp;release=4"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.051667</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU034</j.1:site_code>
+    <j.1:name>Veľkoblahovské rybníky</j.1:name>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.600000</geo:long>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU053_4">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU053&amp;release=4"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:site_code>SKCHVU053</j.1:site_code>
+    <j.1:name>Slovenský raj</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >25243.0000</j.1:area_ha>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.920000</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.345000</geo:long>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU038_4">
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:name>Žitavský luh</j.1:name>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:site_code>SKCHVU038</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU029_1">
+    <j.1:name>Sysľovské polia</j.1:name>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.037778</geo:lat>
+    <j.1:site_code>SKCHVU029</j.1:site_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.118611</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1772.9400</j.1:area_ha>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU029&amp;release=1"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU003_2">
+    <j.1:name>Cerová vrchovina-Porimavie</j.1:name>
+    <j.1:site_code>SKCHVU003</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.292778</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU003&amp;release=2"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.062778</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >30187.7000</j.1:area_ha>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU002_1">
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.035556</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >40932.4200</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >22.367222</geo:long>
+    <j.1:site_code>SKCHVU002</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU002&amp;release=1"/>
+    <j.1:name>Bukovské vrchy</j.1:name>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU021_1">
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU021&amp;release=1"/>
+    <j.1:site_code>SKCHVU021</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:name>Poiplie</j.1:name>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.526667</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.192500</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >8062.9000</j.1:area_ha>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU021_4">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.526667</geo:long>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU021&amp;release=4"/>
+    <j.1:name>Poiplie</j.1:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.192500</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >8062.9000</j.1:area_ha>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_code>SKCHVU021</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU022_1">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.476944</geo:long>
+    <j.1:name>Poľana</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >32188.3800</j.1:area_ha>
+    <j.1:site_code>SKCHVU022</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU022&amp;release=1"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.613889</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU023_2">
+    <j.1:name>Úľanská mokraď</j.1:name>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.548611</geo:long>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU023&amp;release=2"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.273333</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18173.9100</j.1:area_ha>
+    <j.1:site_code>SKCHVU023</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU026_1">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >509.2700</j.1:area_ha>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.554722</geo:lat>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.827500</geo:long>
+    <j.1:site_code>SKCHVU026</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:name>Sĺňava</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU026&amp;release=1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU015_4">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.918889</geo:long>
+    <j.1:site_code>SKCHVU015</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >33753.7000</j.1:area_ha>
+    <j.1:name>Medzibodrožie</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU015&amp;release=4"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.452500</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU053_1">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.920000</geo:lat>
+    <j.1:name>Slovenský raj</j.1:name>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU053&amp;release=1"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >25243.0000</j.1:area_ha>
+    <j.1:site_code>SKCHVU053</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.345000</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU017_2">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:name>Muránska planina- Stolica</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >25796.4600</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.063056</geo:long>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:site_code>SKCHVU017</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.759167</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU017&amp;release=2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU016_1">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >16.982778</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >31072.9200</j.1:area_ha>
+    <j.1:name>Záhorské Pomoravie</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.543611</geo:lat>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU016</j.1:site_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU016&amp;release=1"/>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU011_1">
+    <j.1:site_code>SKCHVU011</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.199167</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU011&amp;release=1"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.859167</geo:long>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:name>Laborecká vrchovina</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >102813.9100</j.1:area_ha>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU008_4">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.470000</geo:lat>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:name>Horná Orava</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >58738.0000</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU008&amp;release=4"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU008</j.1:site_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.445833</geo:long>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU010_4">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1215.8200</j.1:area_ha>
+    <j.1:site_code>SKCHVU010</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.215556</geo:lat>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.816944</geo:long>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU010&amp;release=4"/>
+    <j.1:name>Kráľová</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU033_2">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.077778</geo:long>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.938611</geo:lat>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47445.0100</j.1:area_ha>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:site_code>SKCHVU033</j.1:site_code>
+    <j.1:name>Veľká Fatra</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU033&amp;release=2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU009_1">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17354.3100</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.241944</geo:long>
+    <j.1:name>Košická kotlina</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.611667</geo:lat>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_code>SKCHVU009</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU009&amp;release=1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU029_4">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.037778</geo:lat>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.118611</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1772.9400</j.1:area_ha>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU029&amp;release=4"/>
+    <j.1:name>Sysľovské polia</j.1:name>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU029</j.1:site_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU054_2">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.481944</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.641667</geo:long>
+    <j.1:name>Špačinsko-nižnianské polia</j.1:name>
+    <j.1:site_code>SKCHVU054</j.1:site_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >5533.5300</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU054&amp;release=2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU052_4">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU052&amp;release=4"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU052</j.1:site_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >35849.7100</j.1:area_ha>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.218333</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.085000</geo:long>
+    <j.1:name>Čergov</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU035_4">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >22.270833</geo:long>
+    <j.1:site_code>SKCHVU035</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU035&amp;release=4"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48286.2640</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:name>Vihorlatské vrchy</j.1:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.806944</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU027_2">
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU027&amp;release=2"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.578056</geo:lat>
+    <j.1:name>Slovenský kras</j.1:name>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >43860.2400</j.1:area_ha>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:site_code>SKCHVU027</j.1:site_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.679167</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU005_1">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.172500</geo:long>
+    <j.1:site_code>SKCHVU005</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >31195.5000</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU005&amp;release=1"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47.959444</geo:lat>
+    <j.1:name>Dolné Považie</j.1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU004_4">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_code>SKCHVU004</j.1:site_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47.803889</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU004&amp;release=4"/>
+    <j.1:name>Dolné Pohronie</j.1:name>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.518611</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >229.3200</j.1:area_ha>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU002_2">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >40932.4200</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >22.367222</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:name>Bukovské vrchy</j.1:name>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.035556</geo:lat>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU002</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU002&amp;release=2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU023_1">
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.273333</geo:lat>
+    <j.1:site_code>SKCHVU023</j.1:site_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.548611</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18173.9100</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU023&amp;release=1"/>
+    <j.1:name>Úľanská mokraď</j.1:name>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU022_4">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.613889</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU022&amp;release=4"/>
+    <j.1:name>Poľana</j.1:name>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >32188.3800</j.1:area_ha>
+    <j.1:site_code>SKCHVU022</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.476944</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU016_4">
+    <j.1:name>Záhorské Pomoravie</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU016&amp;release=4"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU016</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >16.982778</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.543611</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >31072.9200</j.1:area_ha>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU051_4">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >46072.7690</j.1:area_ha>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.136944</geo:lat>
+    <j.1:site_code>SKCHVU051</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.670833</geo:long>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU051&amp;release=4"/>
+    <j.1:name>Levočské vrchy</j.1:name>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU053_2">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >25243.0000</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU053&amp;release=2"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.920000</geo:lat>
+    <j.1:name>Slovenský raj</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.345000</geo:long>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU053</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU052_1">
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU052&amp;release=1"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.218333</geo:lat>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:name>Čergov</j.1:name>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.085000</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >35849.7100</j.1:area_ha>
+    <j.1:site_code>SKCHVU052</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU030_2">
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU030</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:name>Tatry</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.950556</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >54611.2900</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.194167</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU030&amp;release=2"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU014_2">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU014&amp;release=2"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >50633.6000</j.1:area_ha>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.434722</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_code>SKCHVU014</j.1:site_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.364167</geo:long>
+    <j.1:name>Malé Karpaty</j.1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU017_1">
+    <j.1:name>Muránska planina- Stolica</j.1:name>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU017&amp;release=1"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.063056</geo:long>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >25796.4600</j.1:area_ha>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.759167</geo:lat>
+    <j.1:site_code>SKCHVU017</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU010_1">
+    <j.1:site_code>SKCHVU010</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1215.8200</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.816944</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.215556</geo:lat>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:name>Kráľová</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU010&amp;release=1"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU009_2">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.241944</geo:long>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU009&amp;release=2"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.611667</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17354.3100</j.1:area_ha>
+    <j.1:site_code>SKCHVU009</j.1:site_code>
+    <j.1:name>Košická kotlina</j.1:name>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU034_2">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >91.3400</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.600000</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.051667</geo:lat>
+    <j.1:name>Veľkoblahovské rybníky</j.1:name>
+    <j.1:site_code>SKCHVU034</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU034&amp;release=2"/>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU011_2">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU011&amp;release=2"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_code>SKCHVU011</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.199167</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >102813.9100</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.859167</geo:long>
+    <j.1:name>Laborecká vrchovina</j.1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU008_1">
+    <j.1:site_code>SKCHVU008</j.1:site_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.445833</geo:long>
+    <j.1:name>Horná Orava</j.1:name>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.470000</geo:lat>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU008&amp;release=1"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >58738.0000</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU033_1">
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU033&amp;release=1"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:name>Veľká Fatra</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47445.0100</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:site_code>SKCHVU033</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.077778</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.938611</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU036_4">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >121420.6500</j.1:area_ha>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:site_code>SKCHVU036</j.1:site_code>
+    <j.1:name>Volovské vrchy</j.1:name>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.815000</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.784444</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU036&amp;release=4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU038_2">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >155.4000</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.297222</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU038&amp;release=2"/>
+    <j.1:name>Žitavský luh</j.1:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.175556</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU038</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU028_2">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >58673.0800</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.436944</geo:long>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU028&amp;release=2"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.958889</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:name>Strážovské vrchy</j.1:name>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:site_code>SKCHVU028</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU004_1">
+    <j.1:site_code>SKCHVU004</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47.803889</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:name>Dolné Pohronie</j.1:name>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.518611</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >229.3200</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU004&amp;release=1"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU005_2">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.172500</geo:long>
+    <j.1:name>Dolné Považie</j.1:name>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47.959444</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU005&amp;release=2"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >31195.5000</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_code>SKCHVU005</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU027_1">
+    <j.1:name>Slovenský kras</j.1:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.578056</geo:lat>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_code>SKCHVU027</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU027&amp;release=1"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >43860.2400</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.679167</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU003_4">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU003&amp;release=4"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.292778</geo:lat>
+    <j.1:site_code>SKCHVU003</j.1:site_code>
+    <j.1:name>Cerová vrchovina-Porimavie</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >30187.7000</j.1:area_ha>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.062778</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU021_2">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.526667</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.192500</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >8062.9000</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU021&amp;release=2"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_code>SKCHVU021</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:name>Poiplie</j.1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU017_4">
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU017&amp;release=4"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.063056</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:name>Muránska planina- Stolica</j.1:name>
+    <j.1:site_code>SKCHVU017</j.1:site_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >25796.4600</j.1:area_ha>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.759167</geo:lat>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU051_1">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.136944</geo:lat>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU051&amp;release=1"/>
+    <j.1:site_code>SKCHVU051</j.1:site_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >46072.7690</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.670833</geo:long>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:name>Levočské vrchy</j.1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU023_4">
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18173.9100</j.1:area_ha>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU023</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.273333</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.548611</geo:long>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU023&amp;release=4"/>
+    <j.1:name>Úľanská mokraď</j.1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU052_2">
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >35849.7100</j.1:area_ha>
+    <j.1:name>Čergov</j.1:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.218333</geo:lat>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU052&amp;release=2"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.085000</geo:long>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU052</j.1:site_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU030_1">
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU030&amp;release=1"/>
+    <j.1:site_code>SKCHVU030</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >54611.2900</j.1:area_ha>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.194167</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:name>Tatry</j.1:name>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.950556</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU015_2">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >21.918889</geo:long>
+    <j.1:site_code>SKCHVU015</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >33753.7000</j.1:area_ha>
+    <j.1:name>Medzibodrožie</j.1:name>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU015&amp;release=2"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.452500</geo:lat>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU014_1">
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.364167</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.434722</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >50633.6000</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:name>Malé Karpaty</j.1:name>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU014&amp;release=1"/>
+    <j.1:site_code>SKCHVU014</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU033_4">
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.938611</geo:lat>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.077778</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47445.0100</j.1:area_ha>
+    <j.1:name>Veľká Fatra</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU033&amp;release=4"/>
+    <j.1:site_code>SKCHVU033</j.1:site_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU010_2">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_code>SKCHVU010</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU010&amp;release=2"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.816944</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.215556</geo:lat>
+    <j.1:name>Kráľová</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1215.8200</j.1:area_ha>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU035_2">
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48286.2640</j.1:area_ha>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU035&amp;release=2"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.806944</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >22.270833</geo:long>
+    <j.1:site_code>SKCHVU035</j.1:site_code>
+    <j.1:name>Vihorlatské vrchy</j.1:name>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU008_2">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >49.470000</geo:lat>
+    <j.1:name>Horná Orava</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >58738.0000</j.1:area_ha>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU008&amp;release=2"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU008</j.1:site_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >19.445833</geo:long>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU034_1">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:name>Veľkoblahovské rybníky</j.1:name>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.600000</geo:long>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU034&amp;release=1"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:site_code>SKCHVU034</j.1:site_code>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >91.3400</j.1:area_ha>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.051667</geo:lat>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU012_4">
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.068333</geo:lat>
+    <j.1:name>Lehnice</j.1:name>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU012&amp;release=4"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2346.8500</j.1:area_ha>
+    <j.1:site_code>SKCHVU012</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.453889</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU038_1">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.175556</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.297222</geo:long>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >155.4000</j.1:area_ha>
+    <j.1:site_code>SKCHVU038</j.1:site_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:name>Žitavský luh</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU038&amp;release=1"/>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU054_4">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.481944</geo:lat>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU054&amp;release=4"/>
+    <j.1:site_code>SKCHVU054</j.1:site_code>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.641667</geo:long>
+    <j.1:name>Špačinsko-nižnianské polia</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >5533.5300</j.1:area_ha>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU029_2">
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU029&amp;release=2"/>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1772.9400</j.1:area_ha>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >17.118611</geo:long>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.037778</geo:lat>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:name>Sysľovské polia</j.1:name>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU029</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU027_4">
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >43860.2400</j.1:area_ha>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_code>SKCHVU027</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.679167</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.578056</geo:lat>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU027&amp;release=4"/>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >4</j.1:release_id>
+    <j.1:name>Slovenský kras</j.1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU004_2">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >2</j.1:release_id>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2012-11-09T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:site_code>SKCHVU004</j.1:site_code>
+    <j.1:country_code>sk</j.1:country_code>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >47.803889</geo:lat>
+    <j.1:name>Dolné Pohronie</j.1:name>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU004&amp;release=2"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.518611</geo:long>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >229.3200</j.1:area_ha>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU028_1">
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <j.1:site_code>SKCHVU028</j.1:site_code>
+    <j.1:name>Strážovské vrchy</j.1:name>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >58673.0800</j.1:area_ha>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU028&amp;release=1"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.958889</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >18.436944</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://natura2000.eea.europa.eu/Natura2000/rdf/sites/SKCHVU003_1">
+    <j.1:hasfactsheet rdf:resource="http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=SKCHVU003&amp;release=1"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >20.062778</geo:long>
+    <j.1:country rdf:resource="http://dd.eionet.europa.eu/vocabulary/common/countries/sk"/>
+    <j.1:country_code>sk</j.1:country_code>
+    <j.1:site_code>SKCHVU003</j.1:site_code>
+    <j.1:site_type>Birds Directive Sites (SPA)</j.1:site_type>
+    <j.1:name>Cerová vrchovina- Porimavie</j.1:name>
+    <j.1:Repornet_delivered_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2011-11-02T12:00:00</j.1:Repornet_delivered_date>
+    <j.1:release_id rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >1</j.1:release_id>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >48.292778</geo:lat>
+    <j.1:area_ha rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+    >30187.7000</j.1:area_ha>
+  </rdf:Description>
+</rdf:RDF>
