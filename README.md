@@ -3,7 +3,7 @@
 ==================================
 
 ##Introduction
-SmartOpenData demo is a Linked geospatial data visualization tool based on the SEFARAD tool, which enables users to explore and represent spatial data for the SmartOpenData project. This tool provides mechanisms for enabling non skilled GIS users to explore and visualize different kind of geo linked data resources with a high level descriptions of classes, properties and relations. This tool enables GIS users to apply faceted browsing features to go beyond the data exploration process to apply specialized linked data visualization features. Furthermore, this tool provides a utility for creating and processing human-readable SPARQL queries as a part of the exploration and visualization process.
+SmartOpenData demo is a Linked geospatial data visualization tool based on the [Sefarad](https://github.com/gsi-upm/Sefarad) tool, which enables users to explore and represent spatial data for the [SmartOpenData](http://www.smartopendata.eu/) project. This tool provides mechanisms for enabling non skilled GIS users to explore and visualize different kind of geo linked data resources with a high level descriptions of classes, properties and relations. This tool enables GIS users to apply faceted browsing features to go beyond the data exploration process to apply specialized linked data visualization features. Furthermore, this tool provides a utility for creating and processing human-readable SPARQL queries as a part of the exploration and visualization process.
 
 ##Getting Started 
 If you want to try this demo, just explore it [here](http://demos.gsi.dit.upm.es/smartopendata/). Let's _play_ with our demo and try yourself the possibilities it brings to you. 
