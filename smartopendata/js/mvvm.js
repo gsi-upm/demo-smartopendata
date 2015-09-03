@@ -10,7 +10,7 @@
 //  Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT    WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and  limitations under the License.
 
 /** YOU MUST EDIT THIS LINE */
-var fuseki_endpoint  =  "http://strauss.gsi.dit.upm.es:8654/slovakia/query?query=";
+var fuseki_endpoint  =  "http://demos.gsi.dit.upm.es/fuseki/slovakia/query?query=";
 /** */
 
 //var serverURL = "http://localhost:8080/LMF/";
