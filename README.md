@@ -14,3 +14,7 @@ If you want to install this demos in your own server, follow the instructions de
 ---
 
 For more information, visit the [Project Wiki](https://github.com/gsi-upm/demo-smartopendata/wiki) or contact us through: http://gsi.dit.upm.es
+
+---
+This research has been cofunded through the SmartOpenData Project developed under the activity code ENV.2013.6.5-3:
+Exploiting the European Open Data Strategy to mobilise the use of environmental data and information
