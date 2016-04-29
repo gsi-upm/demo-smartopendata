@@ -1,4 +1,4 @@
-![GSI Logo](http://www.gsi.dit.upm.es/templates/jgsi/images/logo.png)
+![GSI Logo](http://vps161.cesvima.upm.es/images/stories/logos/gsi.png)
 ![SmartOpenData Logo](http://www.gsi.dit.upm.es/images/stories/demos/logoSmartOpenData.png)
 ==================================
 
